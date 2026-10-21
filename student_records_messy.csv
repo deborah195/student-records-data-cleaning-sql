@@ -1,0 +1,641 @@
+student_id,first_name,last_name,email,phone,enrolled,financial_aid_eligible,fafsa_completed,enrollment_date,major,gpa,state,zip,credits_earned
+S100157,Marcus,Garcia,marcus.garcia62@mail.example.edu,1-269-555-0101,No,0,,9/3/2022,Business Administration,3.22,IN,39800,12
+S100475,Marcus,Walker,marcus.walker30@mail.example.edu,2485550106,1,0,1,05-11-25,Criminal Justice,2.19,WI,97288,53
+S100378,victor,Nelson,victor.nelson61@mail.example.con,269-555-0115,,N,0,11/24/2023,Criminal Justice,2.06,VA,40674,44
+S100302,James,Thomas,james.thomas86@mail.example.edu,3015550105,Y,yes,1,8/5/2024,Business Administration,2.97,WI,16314,32
+S100331,natalie,Nelson,,1-269-555-0150,yes,1,Y,"Oct 17, 2023",Education,3.88,MD,99657,69
+S100444,Jamal,Allen,jamal.allen96mail.example.edu,(312) 555-0181,Y,,,9/6/2025,Psychology,2.57,MI,78220,70
+S100408,Malik,Jackson,malik.jackson18@mail.example.edu,616-555-0170,TRUE,no,no,12-05-22,Business Administration,3.35,OH,04453,108
+S100004,Malik,King,malik.king99@mail.example.edu,555-0104,TRUE,Y,No,2024-04-21,Engineering,3.81,VA,35718,67
+S100321,Samuel,Garcia,,240.555.0115,0,Yes,FALSE,2023-12-19,Accounting,3.86,IN,79059,76
+S100385,Grace,Brown,grace.brown40@mail.example.edu,3125550112,0,Y,1,2022-01-06,Education,2.66,IN,98163,103
+S100010,Jamal,Carter,jamal.carter71mail.example.edu,240-555-0169,No,no,yes,4/28/2025,Criminal Justice,,NY,52173,116
+S100198,Ethan,Johnson,ethan.johnson96@mail.example.edu,(269) 555-0126,No,No,No,"Sep 2, 2025",Computer Information Systems,2.95,VA,14622,39
+S100424,Diego,Perez,diego.perez95@mail.example.edu,2485550128,Y,,Y,2025-11-08,Computer Information Systems,,VA,21103,81
+S100376,Malik,Carter,malik.carter39@mail.example.edu,240-555-0120,1,TRUE,N,6/25/2025,Criminal Justice,2.96,MD,92275,100
+S100520,Priya,Adams,priya.adams5@mail.example.edu,616.555.0166,no,N,0,5/23/2024,Nursing,2.47,WI,89247,32
+S200830,DANIEL,Scott,daniel.scott95@mail.example.edu,(301) 555-0172,,TRUE,N,9/9/2022,Criminal Justice,2.29,MI,46224,123
+S100420,Megan,Harris,megan.harris2@mail.example.edu,(301) 555-0125,,0,0,2024-01-05,Engineering,2.9,IN,89335,0
+S100561,VICTOR, Jackson ,,248.555.0149,0,0,N,"Apr 21, 2023",Accounting,2.98,IN,13709,39
+S100489,Daniel,Harris,daniel.harris35@mail.example.edu,3015550147,yes,yes,Y,10/23/2023,Education,2.35,NY,44276,34
+S100259,Megan,Davis,megan.davis53@mail.example.edu,1-616-555-0178,0,yes,FALSE,11/27/2022,Psychology,1.81,IL,16401,24
+S200975,HANNAH,Scott,hannah.scott96@mail.example.edu,(616) 555-0139,Yes,Y,0,07-23-25,biology,3.32,OH,14356,77
+S100510,Priya,Perez,priya.perez24@mail.example.edu,1-248-555-0192,No,TRUE,No,05-20-24,Communications,3.55,VA,07400,121
+S100543,Omar,Carter,omar.carter74@mail.example.edu,1-616-555-0158,1,FALSE,No,06-06-24,Psychology,3.72,WI,60810,87
+S100026,Diego,Allen,,(240) 555-0143,TRUE,FALSE,No,11/27/2024,Engineering,2.76,WI,86256,123
+S100042,MEGAN,Taylor,megan.taylor51@mail.example.edu,,Yes,0,FALSE,04-20-24,Education,2.22,MI,95493,35
+S100100,Jamal,Wilson,,269-555-0187,1,0,,2024-01-07,Accounting,3.61,VA,11084,61
+S100317,SAMUEL,Carter,samuel.carter43@mail.example.edu,269.555.0125,TRUE,Yes,no,06-10-25,Communications ,2.39,VA,55396,62
+S100316,Lauren,Mitchell,lauren.mitchell66@mail.example.edu,(269) 555-0190,FALSE,FALSE,No,,Communications,3.19,NY,48400,74
+S100277,brianna,Perez,brianna.perez82@mail.example.edu,,yes,No,0,06-27-24,Psychology,3.34,WI,71047,
+S100136,Megan,Hall,megan.hall29@mail.example.edu,616.555.0148,Y,yes,yes,10-02-25,Nursing,3.83,IN,29953,26
+S100408,Malik,Jackson,malik.jackson18@mail.example.edu,616-555-0170,TRUE,no,no,12-05-22,Business Administration,3.35,OH,04453,108
+S100054,ISAAC,Garcia,isaac.garcia28@mail.example.edu,248.555.0137,Yes,FALSE,TRUE,2025-09-23,Biology,3.63,NY,10447,10
+S100264,LUIS,Garcia,luis.garcia99@mail.example.edu,312.555.0167,No,FALSE,FALSE,2022-12-24,Criminal Justice,2.09,WI,85887,4
+S100497,luis,Nelson,luis.nelson98@mail.example.edu,(240) 555-0134,FALSE,Yes,Y,3/21/2025,Computer Information Systems,3.03,NY,62112,22
+S100114,Hannah,Thomas,hannah.thomas16@mail.example.edu,555-0126,0,N,0,10/5/2023,Biology,3.57,WI,70767,43
+S100190,Diego,Walker,diego.walker74@mail.example.edu,3125550148,no,N,FALSE,08-04-22,psychology,3.19,MD,89724,80
+S100204,Malik,Moore,malik.moore71@mail.example.edu,1-248-555-0161,no,N,Yes,"Feb 8, 2023",Criminal Justice,2.17,MI,16682,
+S100440,Chloe,Young,chloe.young83@mail.example.edu,(269) 555-0128,Yes,0,Y,2022-05-08,Accounting,2.69,IN,29821,68
+S100292,Chloe,Wilson,chloe.wilson88@mail.example.edu,312.555.0152,No,,no,05-21-24,Nursing,3.12,WI,15884,7
+S100435,JAMES, Anderson ,james.anderson14@mail.example.edu,240.555.0192,yes,No,no,09-01-24,Computer Information Systems,3.53,VA,40883,84
+S100028,Aisha,Anderson,aisha.anderson89@mail.example.edu,240.555.0162,Yes,No,Y,2023-05-22,Accounting,3.02,WI,98771,90
+S100480,Chloe,Wright,chloe.wright38@mail.example.edu,312.555.0180,N,1,FALSE,2023-02-25,Psychology,2.78,OH,56687,118
+S100223,Marcus,Perez,marcus.perez89@mail.example.edu,312.555.0131,Yes,0,TRUE,10-24-25,Accounting,2.96,MI,06047,115
+S100140,Sofia,Garcia,sofia.garcia85@mail.example.edu,(312) 555-0125,no,yes,,2022-08-28,Business Administration,2.67,VA,87643,99
+S100590,Priya,Adams,priya.adams76@mail.example.edu,6165550162,Yes,N,1,"Mar 20, 2025",education,2.88,IL,96397,115
+S100031,AISHA,Anderson,aisha.anderson78@mail.example.edu,,TRUE,FALSE,FALSE,2025-05-19,accounting,-1,IN,28235,67
+S100208,daniel,Brown,daniel.brown17@mail.example.con,(269) 555-0125,no,No,Yes,11/16/2025,Communications,,IL,29930,
+S100163,daniel,Baker,daniel.baker82@mail.example.edu,2485550170,No,Yes,yes,2/9/2025,Accounting ,2.07,OH,29257,48
+S100532,Hannah,Jackson,hannah.jackson33@mail.example.edu,(269) 555-0117,TRUE,TRUE,TRUE,09-02-22,Communications,3.04,NY,67088,83
+S100535,Emily,Baker,emily.baker69@mail.example.edu,(269) 555-0199,N,No,N,"Nov 7, 2023",Biology,2.73,NY,29473,6
+S100185,Luis,Davis,luis.davis11@mail.example.edu,301.555.0152,Yes,Yes,0,7/21/2022,Biology,2.49,VA,21287,64
+S100441,Diego,Wilson,,616-555-0164,0,FALSE,Y,"Mar 11, 2023",Business Administration ,2.53,IN,02669,109
+S100547,Grace,Adams,grace.adams32@mail.example.edu,269-555-0128,Y,yes,TRUE,2023-04-15,Nursing,,NY,16373,26
+S100067,Aisha,Scott,aisha.scott6@mail.example.edu,269-555-0140,1,TRUE,1,11/7/2022,Psychology,3.52,VA,44506,94
+S100570,Sofia,Moore,sofia.moore60@mail.example.edu,240.555.0107,yes,Y,1,2023-11-07,Education,2.77,IN,10094,73
+S100466,Lauren, Hall ,lauren.hall36@mail.example.edu,555-0132,0,Yes,No,2024-05-28,Nursing,,IL,05850,122
+S100092,Hannah,Anderson,hannah.anderson18@mail.example.edu,555-0129,0,N,0,4/10/2024,Nursing,2.95,VA,37064,44
+S100414,Lauren,Scott,lauren.scott94@mail.example.edu,301.555.0198,yes,N,Y,1/23/2025,Criminal Justice,3.99,MI,20975,127
+S100395,Megan,Harris,,(240) 555-0141,FALSE,Y,0,2023-05-16,Education,2.05,MD,90517,33
+S100509,Andre,Green,andre.green17@mail.example.edu,240.555.0163,Y,N,FALSE,12-27-23,Communications,1.89,OH,6018,25
+S100421,Brianna, Clark ,brianna.clark96@mail.example.edu,3125550189,yes,0,TRUE,2023-04-22,Accounting,2.61,OH,40576,128
+S100523,GRACE,King,grace.king9@mail.example.edu,3015550194,No,Yes,FALSE,4/9/2023,Nursing,3.23,WI,91392,45
+S100409,VICTOR,Allen,,(248) 555-0118,No,Yes,0,03-25-25,Nursing,2.11,MI,40257,86
+S100012,Victor,Allen,victor.allen86@mail.example.edu,616.555.0133,,,Y,1/15/2022,Accounting,5.7,IL,35760,89
+S100256,Diego,King,DIEGO.KING69@MAIL.EXAMPLE.EDU,301-555-0129,Yes,yes,FALSE,10-02-25,Biology,2.09,IN,07548,24
+S100227,james,Young,james.young64@mail.example.edu,269-555-0177,no,no,0,07-15-25,Business Administration,1.81,IN,37452,53
+S100552,Tyler,Nelson,tyler.nelson36@mail.example.edu,2695550141,,Y,yes,2024-12-13,Education,2.18,WI,12648,58
+S100574,Samuel,Clark,samuel.clark42@mail.example.edu,6165550192,no,no,no,8/18/2024,Criminal Justice,2.48,VA,62634,115
+S100345,Marcus,Moore,marcus.moore64@mail.example.edu,1-301-555-0151,0,,Yes,2023-08-28,Biology,2.47,OH,75890,95
+S100082,Jamal,Thomas,jamal.thomas39@mail.example.edu,1-240-555-0126,FALSE,N,FALSE,2024-05-04,Accounting,2.64,WI,46237,37
+S100481,Tyler,Scott,tyler.scott63@mail.example.edu,(240) 555-0130,Y,1,no,"Jan 18, 2025",Education,2.5,WI,58927,66
+S100161,James,King,james.king64@mail.example.edu,2695550196,no,N,Y,2023-09-21,Criminal Justice,2.32,OH,76108,127
+S100551,tanya,Lee,tanya.lee57@mail.example.edu,(301) 555-0166,TRUE,,TRUE,04-19-22,nursing,-1,WI,55020,116
+S100499,Megan,Taylor,megan.taylor29@mail.example.edu,(248) 555-0125,Y,Y,FALSE,2025-06-19,Education,3.21,VA,83709,43
+S100242,Isaac,Walker,isaac.walker48@mail.example.edu,,N,No,Y,"Jul 23, 2023",Accounting,2.5,NY,51012,54
+S100046,Zoe,Harris,,248.555.0127,no,N,No,,education,2.41,MI,60600,54
+S100105,Tanya,Nelson,tanya.nelson42@mail.example.edu,2405550125,yes,TRUE,N,2025-10-26,Biology,2.42,IN,48843,51
+S100112,priya,Nelson,priya.nelson2@mail.example.edu,616-555-0149,1,,FALSE,7/23/2025,Engineering,,WI,29905,70
+S100205,Natalie,Adams,natalie.adams99mail.example.edu,(616) 555-0163,0,N,,2024-11-05,Communications,2.08,NY,74184,88
+S100270,Sofia,Jackson,sofia.jackson21@mail.example.edu,248-555-0123,,yes,yes,2022-06-19,Nursing,2.61,IN,93685,81
+S100113,Marcus,Baker,marcus.baker71@mail.example.edu,301.555.0114,1,N,1,12-15-22,Communications,2.74,MI,86678,76
+S100029,Kevin,Thomas,kevin.thomas96@mail.example.edu,(240) 555-0123,FALSE,Y,0,,Biology,2.59,MI,93801,70
+S100030,Andre,Taylor,andre.taylor63mail.example.edu,269.555.0173,FALSE,FALSE,N,2022-05-28,Engineering,1.94,WI,76631,13
+S100483,Brianna,Garcia,brianna.garcia21@mail.example.edu,(312) 555-0191,yes,N,N,1/2/2023,Computer Information Systems,2.96,IL,64556,72
+S100220,Luis,Anderson,luis.anderson78@mail.example.edu,(301) 555-0116,yes,0,1,03-10-23,Communications,2.75,OH,20025,40
+S100339,NATALIE, Wilson ,,(616) 555-0173,1,Y,N,3/8/2025,Nursing,1.93,IN,58127,91
+S100582,jamal,Williams,jamal.williams31@mail.example.edu,,N,0,No,2025-11-28,Education,2.03,OH,93294,20
+S100422,Megan,Lewis,megan.lewis46@mail.example.edu,312-555-0166,N,No,yes,3/18/2024,Accounting ,2.76,OH,87455,111
+S100065,Maria,Anderson,maria.anderson15@mail.example.edu,3125550176,,1,0,2023-05-14,Computer Information Systems,2.33,MI,88080,92
+S100277,brianna,Perez,brianna.perez82@mail.example.edu,,yes,No,0,06-27-24,Psychology,3.34,WI,71047,
+S100002,DIEGO,Carter,diego.carter90@mail.example.edu,(248) 555-0119,N,No,No,6/20/2024,Psychology,3.41,MD,50615,75
+S100008,Victor,King,victor.king32@mail.example.edu,2485550102,no,0,no,2022-04-03,Computer Information Systems,1.96,NY,88684,33
+S100073,Hannah,Wright,hannah.wright71@mail.example.edu,616-555-0198,TRUE,1,Yes,05-06-23,Nursing,3.36,WI,69012,20
+S100496,Aisha,Harris,,269.555.0169,no,,0,11-28-24,Education,2.17,VA,95651,3
+S100573,Jamal,Davis,jamal.davis50@mail.example.edu,,TRUE,Y,yes,2025-12-18,Biology,2.08,NY,28276,107
+S100027,Priya,Carter,priya.carter58@mail.example.edu,1-312-555-0172,TRUE,N,Yes,3/16/2024,Biology,2.37,IL,79139,70
+S100375,Victor,Clark,,2485550139,No,Y,0,8/10/2023,criminal justice,3.58,MI,94947,57
+S100469,James,Moore,james.moore84@mail.example.edu,(248) 555-0179,N,Yes,Y,"Feb 20, 2022",Biology,2.92,VA,67608,88
+S100182,Natalie, Allen ,NATALIE.ALLEN74@MAIL.EXAMPLE.EDU,616-555-0133,1,TRUE,0,,Psychology,2.28,VA,62789,43
+S100354,VICTOR,Perez,victor.perez28@mail.example.edu,3125550197,N,No,No,7/15/2024,Nursing,2.91,VA,10593,118
+S100089,Diego,Garcia,diego.garcia8@mail.example.edu,,TRUE,Y,Yes,01-14-22,Education,9.3,IN,62875,104
+S100210,Emily,Walker,emily.walker72@mail.example.edu,(312) 555-0195,,0,N,02-06-25,Nursing,2.91,MD,70979,113
+S200811,AISHA,Wilson,aisha.wilson82@mail.example.edu,(616) 555-0184,1,Y,TRUE,4/7/2025,Education,3.55,MI,57980,88
+S100524,ANDRE,Thomas,andre.thomas9@mail.example.edu,616.555.0166,no,no,no,8/4/2025,Communications,1.91,NY,10575,29
+S200577,TANYA, Jackson ,tanya.jackson81@mail.example.edu,269.555.0154,N,TRUE,N,2023-04-08,Psychology,6.1,VA,45249,83
+S100123,Kevin,Wright,KEVIN.WRIGHT91@MAIL.EXAMPLE.EDU,2695550120,N,1,1,03-12-24,Nursing,3.72,VA,16473,7
+S100181,Chloe, Mitchell ,chloe.mitchell83@mail.example.edu,(616) 555-0123,0,No,,2024-12-04,Engineering,2.85,IN,85837,5
+S100009,Jamal, Adams ,jamal.adams85@mail.example.edu,3125550152,Yes,,,,Education,2.04,NY,71292,108
+S100576,Lauren,Perez,lauren.perez68@mail.example.edu,(269) 555-0186,No,No,Yes,2022-06-28,Business Administration,3.78,MD,20739,78
+S200573,MARCUS,Adams,MARCUS.ADAMS54@MAIL.EXAMPLE.EDU,(301) 555-0176,no,Y,FALSE,,criminal justice,2.7,IN,55331,118
+S100322,Megan,Lee,megan.lee75@mail.example.con,(248) 555-0158,TRUE,TRUE,No,2025-03-16,Biology,2.61,NY,78101,101
+S100103,Marcus,Harris,marcus.harris4mail.example.edu,3015550111,N,TRUE,Yes,2025-02-24,Communications,3.95,WI,23227,43
+S100098,VICTOR,Lewis,,301.555.0192,Y,Yes,1,03-04-25,Business Administration,2.33,OH,34084,68
+S100472,Natalie,Nelson,natalie.nelson53@mail.example.edu,1-240-555-0117,Y,N,N,2025-07-17,Nursing,3.19,VA,24581,3
+S100230,Omar,Green,omar.green37@mail.example.edu,2485550133,0,N,yes,9/24/2025,Engineering,2.2,MI,93875,
+S100218,Aisha,Lee,aisha.lee47@mail.example.edu,269-555-0137,,TRUE,no,,Accounting,2.21,WI,61029,5
+S100325,Omar,Allen,omar.allen49@mail.example.edu,(240) 555-0177,yes,1,,11/15/2025,Nursing,2.52,VA,88097,99
+S100320,Lauren,Wilson,lauren.wilson50@mail.example.edu,2405550116,1,Y,no,2024-09-11,nursing,3.76,OH,34907,77
+S100041,Jamal,Clark,jamal.clark60@mail.example.edu,(240) 555-0169,FALSE,N,0,2025-12-09,Engineering,2.24,WI,64335,97
+S100234,Luis,Williams,luis.williams39@mail.example.edu,(248) 555-0122,Yes,no,No,8/17/2022,Nursing ,3.83,OH,69632,83
+S100056,Aisha,Walker,aisha.walker45@mail.example.edu,(240) 555-0118,yes,Y,no,2023-11-03,Nursing,3.18,MD,74889,114
+S100437,Andre,Nelson,andre.nelson27@mail.example.edu,(269) 555-0163,Yes,,no,4/16/2025,Business Administration,3.59,IN,68361,79
+S100129,Priya,Harris,priya.harris58@mail.example.edu,(248) 555-0115,,Y,0,2024-03-03,Biology,,VA,40169,44
+S100077,Grace,Walker,,312-555-0176,,,FALSE,2022-02-14,Nursing,3.4,IL,48964,13
+S100571,ANDRE,Moore,andre.moore53@mail.example.edu,,N,N,Yes,2022-11-08,Computer Information Systems,3.04,MI,75311,57
+S100216,Emily,Moore,emily.moore22@mail.example.edu,1-301-555-0156,FALSE,Yes,no,2024-03-25,Biz Admin,1.92,OH,20356,
+S100274,Marcus,Adams,MARCUS.ADAMS54@MAIL.EXAMPLE.EDU,(301) 555-0176,no,Y,FALSE,,criminal justice,2.7,IN,55331,118
+S100305,LUIS,Perez,luis.perez87mail.example.edu,248.555.0103,,No,TRUE,6/5/2022,computer information systems,3.63,MI,60513,68
+S100575,Maria,Wilson,maria.wilson50@mail.example.edu,312-555-0123,Yes,no,TRUE,5/24/2023,Accounting,3.21,IN,26927,81
+S200666,DIEGO,Baker,diego.baker8@mail.example.edu,(616) 555-0181,N,0,FALSE,6/16/2024,Education,2.98,MI,85651,30
+S100459,Priya,Harris,priya.harris18@mail.example.edu,240-555-0142,,Yes,no,6/3/2022,Criminal Justice,7.5,NY,17969,10
+S100108,Hannah,Jackson,HANNAH.JACKSON65@MAIL.EXAMPLE.EDU,(269) 555-0161,TRUE,No,No,06-10-23,Education,2.26,WI,63411,115
+S100237,ANDRE, Clark ,,(312) 555-0106,TRUE,yes,0,"Oct 12, 2025",Psychology,2.24,OH,70924,119
+S100015,LUIS,Davis,luis.davis6@mail.example.edu,(616) 555-0187,No,N,1,"Oct 24, 2025",Nursing,2.32,MD,24206,6
+S100117,Priya,Hall,priya.hall44@mail.example.edu,(269) 555-0105,FALSE,Yes,No,"Aug 15, 2023",Computer Information Systems,2.74,WI,18290,77
+S100288,Tanya, Jackson ,tanya.jackson81@mail.example.edu,269.555.0154,N,TRUE,N,2023-04-08,Psychology,6.1,VA,45249,83
+S100296,Megan,Perez,megan.perez40@mail.example.edu,240-555-0146,,No,1,"Jul 1, 2025",Criminal Justice,3.82,MD,31862,41
+S100586,Lauren,Lewis,lauren.lewis76@mail.example.con,240.555.0145,FALSE,N,TRUE,8/5/2025,Nursing,2.65,IN,19275,97
+S100372,Daniel,Lewis,daniel.lewis97@mail.example.edu,(240) 555-0111,Yes,yes,N,"Apr 24, 2024",Psychology,3.89,MD,88225,125
+S100559,Megan,Baker,,(312) 555-0193,no,no,0,03-01-23,Engineering,-1,VA,53894,99
+S100226,Samuel,Adams,samuel.adams71@mail.example.edu,6165550142,,yes,yes,"Dec 2, 2023",Criminal Justice,3.41,IL,38851,30
+S100448,Diego,Mitchell,diego.mitchell89@mail.example.edu,240.555.0191,N,TRUE,FALSE,8/1/2025,communications,5.3,WI,40634,95
+S100309,KEVIN, Allen ,kevin.allen6@mail.example.edu,301.555.0154,FALSE,,0,05-19-24,Business Administration,1.84,MI,61670,46
+S100516,Isaac,Anderson,isaac.anderson77@mail.example.edu,312.555.0102,no,yes,0,6/1/2022,Accounting,3.24,IL,26301,41
+S100268,Aisha,Williams,aisha.williams10mail.example.edu,1-248-555-0114,FALSE,yes,no,5/14/2022,Communications,2.84,MI,97693,74
+S100019,Luis,Adams,luis.adams57@mail.example.edu,555-0160,yes,,No,2024-02-27,Biology,2.29,OH,4201,121
+S100271,Tyler,Clark,tyler.clark4@mail.example.edu,(312) 555-0198,FALSE,N,yes,2024-11-23,Psychology,2.44,OH,76199,113
+S100291,Chloe,Adams,chloe.adams54@mail.example.edu,3015550165,1,yes,Yes,10/16/2023,Biology,3.61,MI,36118,111
+S100432,sofia,Baker,sofia.baker92@mail.example.edu,555-0172,no,1,No,9/7/2023,Business Administration,3.38,VA,88994,107
+S100427,Kevin,Wilson,kevin.wilson49@mail.example.edu,240.555.0106,yes,,Yes,2/15/2022,Accounting,2.11,IL,24675,126
+S100456,Grace,Davis,grace.davis33@mail.example.edu,(240) 555-0136,yes,TRUE,1,02-19-23,Computer Information Systems,3.27,OH,19423,92
+S100146,Sofia, Baker ,sofia.baker25@mail.example.edu,(616) 555-0107,FALSE,Yes,N,06-27-24,Engineering,3.2,IN,05005,125
+S100397,Andre,Green,andre.green92@mail.example.edu,301-555-0144,FALSE,,No,"Aug 14, 2022",Communications,,MI,79532,33
+S100266,Isaac,Mitchell,isaac.mitchell87@mail.example.edu,269.555.0114,FALSE,0,Yes,11/18/2023,Business Administration,3.5,IL,44899,29
+S100401,Emily,Allen,emily.allen58@mail.example.edu,240.555.0155,FALSE,No,FALSE,2023-03-07,Accounting,3.4,IL,03758,45
+S100063,ANDRE,Perez,andre.perez16@mail.example.edu,616.555.0134,1,yes,TRUE,2023-08-12,Computer Information Systems,2.67,MD,51615,95
+S100568,sofia,Wright,sofia.wright21@mail.example.edu,(312) 555-0108,N,yes,Y,,Psychology,-1,NY,16650,51
+S100443,Hannah,Lewis,hannah.lewis63@mail.example.edu,312-555-0101,Y,N,1,02-09-25,Communications,1.85,MI,29869,36
+S100047,Maria,Adams,,3015550126,no,N,yes,05-28-22,Nursing,2.99,MD,15408,6
+S100239,Ethan,Martinez,ethan.martinez66mail.example.edu,240.555.0113,,No,Y,10/14/2025,Biology,3.01,VA,51307,53
+S100187,Diego,Moore,DIEGO.MOORE7@MAIL.EXAMPLE.EDU,555-0100,yes,FALSE,0,5/8/2022,education,1.88,MI,53513,73
+S100171,Hannah,Anderson,hannah.anderson6@mail.example.edu,248-555-0148,No,TRUE,Y,1/17/2024,Education,2.92,OH,39854,49
+S100064,Malik,Brown,,312-555-0189,FALSE,FALSE,0,2022-01-09,Biology,3.01,OH,70176,73
+S100313,Omar,Walker,omar.walker63@mail.example.edu,(269) 555-0167,0,N,1,2025-08-04,Engineering,3.22,NY,58177,73
+S100257,TANYA,Allen,tanya.allen15@mail.example.edu,(301) 555-0128,no,TRUE,N,06-04-25,Accounting,2.51,OH,28948,44
+S100282,Luis,Brown,LUIS.BROWN67@MAIL.EXAMPLE.EDU,248.555.0190,Yes,No,N,5/15/2025,Accounting,3.31,VA,30605,74
+S100423,Aisha, Adams ,aisha.adams53mail.example.edu,1-240-555-0196,1,No,,11/10/2022,Criminal Justice,3.51,MD,16007,120
+S100134,Diego, Green ,diego.green90@mail.example.edu,(301) 555-0172,no,FALSE,1,2025-01-03,Computer Information Systems,2.28,MD,01089,51
+S100428,grace, Brown ,grace.brown81mail.example.edu,240.555.0153,N,,FALSE,05-01-23,Nursing,3.19,MI,16362,88
+S100251,Aisha,Carter,aisha.carter83@mail.example.edu,1-616-555-0114,Y,Y,FALSE,11-15-22,Psychology,3.32,MI,43389,18
+S100053,Lauren,Allen,lauren.allen97@mail.example.edu,240.555.0110,,TRUE,FALSE,5/7/2025,Communications,2.75,VA,89930,78
+S100200,Malik, Jackson ,malik.jackson40@mail.example.edu,248.555.0119,Yes,1,yes,2025-09-01,Engineering,,MD,57418,59
+S100142,OMAR,Taylor,,555-0166,,0,yes,2025-03-06,Biology,2.08,WI,90538,37
+S100139,Priya,Young,priya.young56@mail.example.edu,616-555-0177,yes,Yes,No,2023-07-23,Communications,3.41,NY,37899,24
+S100450,Megan,Wilson,megan.wilson18@mail.example.edu,240-555-0181,Y,,Y,08-20-22,Biology,1.8,NY,16864,63
+S100506,Maria,Thomas,maria.thomas88@mail.example.edu,555-0159,N,,No,01-06-25,Education,2.92,MI,02518,102
+S100176,Daniel,Taylor,daniel.taylor58@mail.example.edu,1-240-555-0139,yes,0,0,7/6/2024,Computer Information Systems,3.53,MD,84995,92
+S100183,Isaac,Davis,isaac.davis85@mail.example.edu,1-616-555-0192,FALSE,0,0,2025-07-05,business administration,2.95,IN,90701,38
+S100330,Hannah,Williams,hannah.williams19@mail.example.edu,6165550131,TRUE,1,FALSE,2025-10-10,nursing,3.85,IL,79363,97
+S100273,Chloe,Lee,chloe.lee8@mail.example.edu,(248) 555-0150,TRUE,N,TRUE,6/12/2024,Psychology,8.4,WI,59224,106
+S100572,NATALIE,Hall,natalie.hall61@mail.example.edu,240.555.0149,0,TRUE,FALSE,"Nov 16, 2023",Accounting,3.96,MD,63800,39
+S100157,Marcus,Garcia,marcus.garcia62@mail.example.edu,1-269-555-0101,No,0,,9/3/2022,Business Administration,3.22,IN,39800,12
+S100197,Ethan,Martinez,ethan.martinez79@mail.example.edu,(269) 555-0110,no,N,N,10-21-24,Criminal Justice,2.78,IN,48600,115
+S100578,MALIK, Clark ,malik.clark49@mail.example.edu,,0,N,FALSE,8/1/2023,Engineering,3.05,WI,12142,17
+S100172,Daniel,Martinez,,,,TRUE,No,2025-11-27,Business Administration,2.14,WI,44478,18
+S100579,Victor,Lee,victor.lee86@mail.example.con,240.555.0141,No,N,0,,Accounting,2.17,IN,26168,6
+S100387,Kevin,King,kevin.king41@mail.example.edu,(240) 555-0110,no,No,yes,12/10/2022,Communications,,OH,56572,34
+S100392,Andre,Lewis,andre.lewis98@mail.example.edu,,TRUE,yes,No,,Education,3.49,MI,89907,109
+S100434,Maria,Mitchell,,,Y,N,N,8/20/2024,Computer Information Systems,3.33,OH,85029,31
+S100106,Victor,Baker,victor.baker91@mail.example.edu,(248) 555-0188,TRUE,,FALSE,2024-04-09,Nursing,9.8,VA,63814,129
+S100174,Lauren,Perez,LAUREN.PEREZ61@MAIL.EXAMPLE.EDU,,1,Y,,2024-01-18,Communications,1.89,MD,52653,21
+S100541,Isaac,Wright,isaac.wright74@mail.example.con,(616) 555-0165,yes,no,,2022-12-13,Psychology,2.03,NY,25199,77
+S100086,Samuel,Moore,samuel.moore23@mail.example.edu,240-555-0151,1,N,No,3/5/2022,Engineering,2.35,WI,31870,68
+S100050,Luis,Moore,luis.moore41@mail.example.edu,240.555.0132,yes,,FALSE,2022-02-14,Business Administration,2.62,VA,08861,84
+S100240,Diego,Harris,diego.harris23@mail.example.edu,269-555-0194,0,FALSE,No,6/18/2025,Business Administration,2.19,MI,10123,97
+S100534,Hannah,Walker,hannah.walker3@mail.example.edu,1-248-555-0100,TRUE,Yes,Yes,2025-03-09,Biology,3.49,IN,86670,90
+S100463,Olivia,Williams,olivia.williams30@mail.example.edu,(301) 555-0126,yes,Yes,no,02-01-25,Engineering,2.39,VA,40375,21
+S100145,Ethan,Scott,ethan.scott39@mail.example.edu,312-555-0199,Y,TRUE,0,8/7/2023,Criminal Justice,3.47,VA,08367,40
+S100355,ethan,Wilson,ethan.wilson18@mail.example.edu,2405550159,No,No,1,03-16-25,Psychology,,VA,14174,31
+S100510,Priya,Perez,priya.perez24@mail.example.edu,1-248-555-0192,No,TRUE,No,05-20-24,Communications,3.55,VA,07400,121
+S100267,Lauren,Green,lauren.green65@mail.example.edu,(248) 555-0106,N,FALSE,FALSE,8/23/2022,Communications,2.97,NY,82389,16
+S100059,VICTOR,Young,,1-269-555-0171,Y,Y,,,Accounting,3.82,OH,86990,100
+S100132,Brianna,Taylor,brianna.taylor12@mail.example.edu,(616) 555-0153,1,no,,,Education,3.52,MI,75141,99
+S100153,Sofia,Young,sofia.young62@mail.example.edu,(269) 555-0168,N,Yes,N,01-22-23,Computer Information Systems,2.35,WI,46134,26
+S100539,Luis,Martinez,luis.martinez86@mail.example.con,(269) 555-0120,no,Y,TRUE,10/11/2024,Computer Information Systems,2.53,MI,05485,36
+S100070,tyler,Lee,tyler.lee58@mail.example.edu,,0,yes,1,11/9/2024,Biology,1.86,WI,68861,30
+S100518,Victor,Wright,victor.wright50mail.example.edu,312-555-0133,1,No,0,8/16/2022,Computer Information Systems,2.68,NY,06230,130
+S100495,Grace,Garcia,grace.garcia8@mail.example.edu,269-555-0191,0,,FALSE,12/28/2025,Communications,,IN,94495,45
+S100065,Maria,Anderson,maria.anderson15@mail.example.edu,3125550176,,1,0,2023-05-14,Computer Information Systems,2.33,MI,88080,92
+S100545,Samuel,Green,samuel.green68@mail.example.edu,3015550146,1,yes,N,2023-11-21,Accounting,3.85,WI,71886,108
+S100162,Omar,Green,omar.green72@mail.example.edu,269-555-0177,,Y,1,6/12/2025,Computer Information Systems,3.66,OH,82232,93
+S100158,Ethan,Garcia,ethan.garcia55@mail.example.edu,269-555-0197,Yes,yes,,6/15/2024,Accounting,3.41,NY,45921,102
+S100133,Priya,Young,priya.young8@mail.example.edu,312.555.0167,0,no,yes,2023-05-18,Computer Information Systems,3.89,MD,51911,44
+S100319,Brianna,Scott,brianna.scott54@mail.example.edu,2405550189,Y,N,N,2024-09-20,Nursing,2.78,VA,72358,113
+S100419,Olivia, Thomas ,olivia.thomas52mail.example.edu,240-555-0157,1,no,,"Jan 3, 2023",Criminal Justice,3.46,IN,46780,123
+S100488,Chloe, Hall ,chloe.hall14@mail.example.edu,(269) 555-0148,Yes,yes,1,04-15-23,business administration,2.73,WI,69758,107
+S100347,Kevin, Nelson ,kevin.nelson36@mail.example.edu,(269) 555-0115,Yes,1,no,2024-05-10,Psychology ,3.13,WI,99616,
+S100024,Priya,Moore,priya.moore54@mail.example.edu,(269) 555-0160,1,Yes,N,2022-11-02,Computer Information Systems,,IL,20973,121
+S100087,Natalie,Green,,269.555.0159,TRUE,,1,"Dec 4, 2024",Psychology,2.29,NY,63676,95
+S100449,Maria,Baker,maria.baker60@mail.example.edu,301-555-0158,No,Yes,Y,06-20-22,Business Administration,3.04,MI,8977,130
+S100452,KEVIN,Wright,kevin.wright48@mail.example.edu,1-312-555-0149,No,FALSE,TRUE,01-10-23,Engineering,2.66,MD,05467,113
+S100147,Ethan,Lewis,ethan.lewis34@mail.example.edu,240.555.0111,TRUE,Yes,yes,"Apr 21, 2023",Biology,2.39,IN,03628,2
+S100202,Olivia, Scott ,olivia.scott7@mail.example.edu,269-555-0123,Y,Y,yes,04-03-22,nursing,2.28,MI,66325,118
+S100505,Jamal,Mitchell,jamal.mitchell44@mail.example.edu,2695550178,TRUE,No,,2025-04-02,Biology,2.0,NY,24576,72
+S100423,Aisha, Adams ,aisha.adams53mail.example.edu,1-240-555-0196,1,No,,11/10/2022,Criminal Justice,3.51,MD,16007,120
+S200501,GRACE,Anderson,grace.anderson55@mail.example.edu,3015550104,TRUE,,yes,12/17/2022,Engineering,1.82,WI,50732,83
+S100404,Chloe,Mitchell,chloe.mitchell4@mail.example.edu,312.555.0118,Y,no,,8/6/2022,Business Administration,3.9,OH,10999,30
+S100144,Zoe,Harris,,(248) 555-0151,0,,TRUE,2024-12-08,Computer Information Systems,3.83,NY,03651,77
+S100178,Andre,Mitchell,andre.mitchell47@mail.example.edu,301-555-0193,yes,FALSE,1,6/17/2025,Computer Information Systems,3.67,IN,81482,35
+S100431,Isaac,Lee,isaac.lee81@mail.example.edu,312-555-0121,1,Y,0,7/1/2024,Business Administration ,2.51,MD,47890,55
+S100177,Zoe,Lewis,zoe.lewis71mail.example.edu,(240) 555-0177,Y,yes,1,2022-12-03,Computer Information Systems,3.19,WI,76877,54
+S100461,Zoe,Young,zoe.young56@mail.example.edu,(616) 555-0129,Yes,no,TRUE,01-28-22,Biology,1.97,IL,24670,80
+S100370,DIEGO,Brown,diego.brown52@mail.example.edu,1-616-555-0103,1,Y,no,9/14/2025,biology,3.2,MD,43229,92
+S100194,Marcus,Hall,marcus.hall44@mail.example.edu,(312) 555-0154,N,N,TRUE,2023-10-05,Accounting,3.59,IN,31907,97
+S100276,Omar,Williams,omar.williams56@mail.example.edu,2405550187,No,N,1,05-06-22,accounting,2.5,VA,18759,13
+S100525,Emily,Brown,,,FALSE,,no,1/9/2025,Criminal Justice,2.88,WI,67491,72
+S100131,DIEGO,Davis,DIEGO.DAVIS43@MAIL.EXAMPLE.EDU,(312) 555-0106,0,TRUE,TRUE,11/14/2025,Nursing,3.8,IL,59459,8
+S100121,OMAR,Lee,omar.lee77mail.example.edu,269-555-0146,yes,TRUE,0,8/25/2023,business administration,1.95,VA,06220,101
+S100425,Jamal,Hall,jamal.hall7@mail.example.edu,(301) 555-0154,,TRUE,yes,9/6/2024,Criminal Justice,3.36,WI,16515,100
+S100079,Sofia,Young,SOFIA.YOUNG41@MAIL.EXAMPLE.EDU,301-555-0194,0,N,1,12-19-25,Psychology,1.84,MI,15366,78
+S100236,Kevin,Thomas,KEVIN.THOMAS35@MAIL.EXAMPLE.EDU,(248) 555-0114,0,1,1,2024-09-11,Psychology,3.35,MD,33089,79
+S100593,Malik,Thomas,MALIK.THOMAS37@MAIL.EXAMPLE.EDU,616-555-0141,No,Yes,N,3/11/2024,Criminal Justice,3.18,MD,52843,8
+S100407,Grace,Harris,grace.harris69@mail.example.edu,3125550110,TRUE,1,0,12-03-23,Biology,2.25,MI,48500,34
+S100138,Omar,Mitchell,omar.mitchell62@mail.example.edu,,no,yes,FALSE,2022-05-01,Education,2.03,OH,50212,19
+S100374,Ethan, Moore ,ethan.moore8@mail.example.edu,616-555-0149,N,N,,"Sep 22, 2023",Accounting,,NY,61372,75
+S100078,Tyler,Hall,tyler.hall71@mail.example.edu,1-301-555-0187,yes,No,TRUE,9/12/2024,Nursing ,2.92,NY,6938,85
+S100088,Lauren,Hall,lauren.hall88@mail.example.edu,269.555.0167,N,No,0,2023-10-18,Nursing ,3.68,NY,90167,125
+S100235,Tanya,Walker,tanya.walker59@mail.example.edu,(301) 555-0114,Yes,,0,"Aug 2, 2024",Business Administration,3.25,IL,76701,53
+S100207,Hannah,Taylor,hannah.taylor82@mail.example.edu,240-555-0123,0,N,0,2022-11-18,Criminal Justice ,3.3,MD,21202,82
+S100167,diego,Johnson,,555-0196,Y,,Y,2022-12-26,Psychology,2.99,VA,60322,57
+S100332,Priya, Wilson ,PRIYA.WILSON89@MAIL.EXAMPLE.EDU,2695550177,Yes,,yes,7/18/2025,Business Administration,4.7,VA,89029,31
+S100254,Daniel,Allen,daniel.allen39@mail.example.edu,(240) 555-0182,1,N,No,11-07-24,Nursing,3.93,MD,40173,27
+S100348,Kevin,Nelson,kevin.nelson75@mail.example.edu,1-269-555-0160,yes,TRUE,no,2023-08-08,Communications,3.02,IL,61476,21
+S100513,victor,Carter,victor.carter45mail.example.edu,240.555.0167,Y,N,FALSE,03-20-22,Accounting ,2.57,NY,04068,72
+S100457,Priya,Martinez,priya.martinez68@mail.example.edu,616-555-0173,1,N,N,2/15/2023,Criminal Justice,3.72,NY,17671,76
+S100333,Tanya,Young,tanya.young90@mail.example.edu,269.555.0159,no,FALSE,Yes,2022-05-22,Education ,3.6,MI,95084,126
+S100295,Sofia,Brown,sofia.brown33@mail.example.edu,2695550162,No,N,1,5/26/2023,Nursing,3.37,MI,03762,8
+S100600,Samuel,Allen,samuel.allen83@mail.example.con,312-555-0194,No,Y,TRUE,01-04-24,Psychology,2.81,NY,27825,7
+S100365,Olivia,Baker,olivia.baker63@mail.example.edu,(248) 555-0189,TRUE,TRUE,no,2022-06-21,Computer Information Systems,3.22,IN,60699,37
+S100526,Olivia,Carter,olivia.carter65@mail.example.edu,312-555-0114,yes,FALSE,Yes,2025-08-06,nursing,2.75,OH,59090,46
+S100016,Diego,Perez,diego.perez32@mail.example.edu,240.555.0113,Yes,FALSE,no,2025-06-10,Biology,3.25,VA,37517,71
+S100281,daniel,Nelson,daniel.nelson25@mail.example.edu,6165550196,No,no,1,"Jun 23, 2025",Accounting ,-1,IL,47507,108
+S100039,ethan,King,ethan.king34@mail.example.edu,1-240-555-0150,N,,1,11/23/2024,Engineering,7.9,OH,38667,23
+S100386,Olivia,Johnson,olivia.johnson19@mail.example.edu,(240) 555-0134,,N,no,12-15-25,Nursing,2.58,IL,38594,109
+S100555,VICTOR,Thomas,victor.thomas89@mail.example.edu,616.555.0128,no,yes,Yes,2022-10-16,Engineering,3.01,VA,55044,102
+S100477,james,Lewis,james.lewis74@mail.example.edu,(312) 555-0166,FALSE,Y,No,08-14-22,Engineering,3.7,IL,96896,90
+S100081,Luis,Walker,luis.walker95@mail.example.edu,2405550117,1,N,,6/6/2025,Engineering,2.55,IL,95493,67
+S100471,Tanya,Allen,tanya.allen99@mail.example.edu,616.555.0158,No,no,FALSE,06-03-25,Education,1.97,IL,64459,114
+S100580,Maria,King,maria.king56@mail.example.edu,248-555-0195,,FALSE,,2022-03-28,accounting,3.06,WI,27167,97
+S100306,Priya,Garcia,priya.garcia94@mail.example.edu,(301) 555-0116,Yes,,Y,2022-12-03,Communications,2.64,IL,24332,102
+S100297,Zoe, Adams ,zoe.adams11@mail.example.edu,,N,TRUE,No,09-03-24,Education,3.4,IN,43830,7
+S100285,Omar, Anderson ,omar.anderson7@mail.example.edu,(312) 555-0186,yes,TRUE,0,05-20-23,accounting,1.97,NY,65512,51
+S100231,Hannah,King,hannah.king79@mail.example.edu,312.555.0105,1,,no,2023-12-10,Psychology,2.48,MD,43457,29
+S100327,lauren,Lewis,lauren.lewis69@mail.example.con,555-0135,no,0,FALSE,2024-07-19,Computer Information Systems,3.85,OH,24659,81
+S100344,Brianna,Anderson,brianna.anderson69@mail.example.edu,(616) 555-0141,,Y,yes,"Apr 24, 2025",Business Administration,3.54,NY,22945,130
+S100548,Jamal,Wright,jamal.wright79@mail.example.edu,269-555-0196,N,Y,Yes,2/21/2024,Engineering,2.17,OH,64871,57
+S100455,Priya,Baker,priya.baker31mail.example.edu,616-555-0193,TRUE,No,Yes,1/28/2022,Business Administration,2.62,NY,04861,82
+S100203,Priya, Williams ,priya.williams51mail.example.edu,(312) 555-0123,Y,TRUE,Yes,2023-07-25,Engineering,3.99,WI,97380,53
+S100165,Daniel,Lee,daniel.lee50@mail.example.edu,,Y,TRUE,N,,Criminal Justice,3.75,IL,92946,80
+S100022,Grace,Scott,grace.scott43@mail.example.edu,(312) 555-0107,TRUE,TRUE,0,"Oct 13, 2022",engineering,2.57,WI,55921,56
+S100222,Tyler,Williams,tyler.williams78@mail.example.edu,(240) 555-0147,TRUE,FALSE,FALSE,2023-04-02,Criminal Justice,1.83,OH,55138,51
+S200878,NATALIE,Green,natalie.green33@mail.example.edu,(240) 555-0184,0,yes,No,03-09-24,Accounting,3.55,NY,51193,70
+S100209,Brianna,Lewis,,301-555-0195,TRUE,N,Yes,09-02-24,Business Administration,1.97,IL,69089,59
+S100342,TYLER, Johnson ,TYLER.JOHNSON15@MAIL.EXAMPLE.EDU,1-312-555-0124,N,Yes,Yes,2024-03-08,Psychology,2.55,OH,24401,45
+S100116,Hannah, Williams ,hannah.williams66@mail.example.edu,2405550147,FALSE,N,0,2022-12-15,Education,3.55,WI,57314,126
+S100186,Natalie,Jackson,natalie.jackson27@mail.example.edu,(301) 555-0161,1,1,FALSE,2024-10-12,Criminal Justice,3.68,VA,99017,41
+S100336,Zoe,Green,zoe.green58@mail.example.edu,312.555.0124,0,Yes,no,,Biology ,2.48,MD,13678,110
+S100127,brianna,Nelson,brianna.nelson98@mail.example.edu,240.555.0193,no,1,no,3/23/2022,psychology,3.83,OH,69125,95
+S100394,jamal,Brown,jamal.brown19@mail.example.edu,(301) 555-0125,Yes,TRUE,TRUE,4/11/2023,Criminal Justice,2.92,MD,40883,93
+S100446,kevin,Nelson,kevin.nelson56@mail.example.edu,269.555.0106,N,Y,1,02-23-23,Psychology,3.41,MD,11579,8
+S100038,Natalie, Lee ,natalie.lee96@mail.example.edu,312-555-0149,,yes,FALSE,,Education,3.72,VA,69937,3
+S100263,Isaac,Martinez,isaac.martinez22@mail.example.edu,(301) 555-0129,1,FALSE,no,5/1/2025,Criminal Justice,2.34,MI,76951,38
+S100307,Marcus,Lee,MARCUS.LEE84@MAIL.EXAMPLE.EDU,555-0162,Y,,0,2022-06-17,Biology,3.75,MD,74801,23
+S100340,Sofia,Lewis,sofia.lewis2@mail.example.edu,(240) 555-0186,no,1,1,"Jun 7, 2025",Biology,5.5,MD,63354,119
+S100298,Brianna,Clark,brianna.clark81@mail.example.edu,(301) 555-0110,no,1,,06-15-25,Engineering,2.09,VA,78728,72
+S100323,Brianna,Harris,brianna.harris94@mail.example.edu,6165550118,FALSE,FALSE,yes,,Engineering,3.44,VA,49409,30
+S100460,Chloe,Anderson,,,no,1,0,"Sep 16, 2022",Computer Information Systems,2.63,OH,92925,35
+S100075,Omar,Mitchell,omar.mitchell62@mail.example.edu,240.555.0151,No,Yes,yes,8/7/2025,Education,2.49,IN,97233,88
+S100037,Ethan,Williams,ethan.williams65@mail.example.edu,,0,0,,8/18/2023,Engineering,3.01,IL,60682,48
+S100278,Tyler,Baker,tyler.baker14@mail.example.edu,301-555-0128,1,0,1,07-15-22,Biz Admin,,NY,46640,92
+S100284,Priya,Wilson,priya.wilson55@mail.example.edu,,0,0,Y,06-16-25,Accounting,3.97,NY,20316,27
+S100415,Sofia,Baker,sofia.baker12@mail.example.edu,(312) 555-0140,Y,yes,No,2024-06-03,Business Administration ,3.5,IN,63031,113
+S100280,omar,Brown,omar.brown2@mail.example.edu,(269) 555-0177,no,yes,,3/28/2022,Psychology,2.57,OH,66619,61
+S100051,Tyler,Carter,,248.555.0176,No,0,1,2025-04-28,Business Administration,3.02,MI,37512,109
+S100390,priya,Taylor,priya.taylor24@mail.example.edu,269.555.0112,no,No,1,7/4/2023,engineering,3.49,IN,62695,76
+S100550,Jamal,Allen,jamal.allen14@mail.example.edu,2405550162,0,TRUE,0,1/20/2025,Business Administration,3.55,VA,76448,61
+S100349,Luis,Baker,,616-555-0173,Y,Yes,FALSE,06-08-24,Criminal Justice,3.46,MI,91507,83
+S100241,Aisha,Wilson,aisha.wilson82@mail.example.edu,(616) 555-0184,1,Y,TRUE,4/7/2025,Education,3.55,MI,57980,88
+S100097,Hannah,Martinez,hannah.martinez70@mail.example.edu,301-555-0182,1,Yes,No,"Jan 14, 2022",Nursing,2.31,NY,02198,116
+S100110,Grace,Johnson,grace.johnson9@mail.example.edu,301.555.0123,no,FALSE,No,2025-09-21,Education,3.14,WI,46603,117
+S100246,KEVIN,Martinez,kevin.martinez96@mail.example.edu,(301) 555-0133,FALSE,0,yes,12/20/2024,Computer Information Systems,1.98,WI,37418,71
+S100447,Jamal,Adams,jamal.adams13@mail.example.edu,248.555.0176,0,TRUE,,"Nov 25, 2023",Biology,2.72,VA,40976,118
+S100594,Natalie, Baker ,natalie.baker92@mail.example.edu,312-555-0108,yes,yes,No,2/25/2023,Education,2.54,VA,99415,102
+S100379,Lauren, Scott ,lauren.scott60@mail.example.edu,240.555.0148,,FALSE,N,2022-02-04,Engineering,3.8,OH,77919,122
+S100156,Megan,Wright,megan.wright85@mail.example.edu,,TRUE,No,1,05-04-22,Business Administration,3.14,WI,69569,91
+S100581,Megan,Lee,megan.lee55@mail.example.edu,248-555-0116,Y,1,no,2/15/2024,Business Administration,3.81,OH,15879,32
+S100272,Samuel,Lewis,,301.555.0128,No,N,Yes,10/17/2023,Biology,3.49,OH,11956,114
+S200446,DANIEL,Brown,daniel.brown17@mail.example.con,(269) 555-0125,no,No,Yes,11/16/2025,Communications,,IL,29930,
+S100137,PRIYA,Green,PRIYA.GREEN41@MAIL.EXAMPLE.EDU,1-269-555-0190,N,FALSE,Yes,2023-12-03,Education,,VA,51585,107
+S100391,Andre,Adams,ANDRE.ADAMS57@MAIL.EXAMPLE.EDU,248.555.0195,N,no,No,2022-03-13,Criminal Justice,3.78,NY,27082,68
+S100058,Hannah,Perez,hannah.perez61@mail.example.edu,(269) 555-0157,N,No,1,4/23/2022,Engineering,2.95,MD,48696,72
+S100007,Malik,Jackson,malik.jackson8@mail.example.edu,(301) 555-0110,FALSE,No,1,11-16-23,Communications ,2.96,VA,28760,51
+S100515,Chloe,Hall,chloe.hall97@mail.example.edu,312-555-0120,yes,TRUE,Y,2024-08-21,Nursing,2.02,MI,55801,105
+S100031,AISHA,Anderson,aisha.anderson78@mail.example.edu,,TRUE,FALSE,FALSE,2025-05-19,accounting,-1,IN,28235,67
+S100540,Andre,Lee,,616.555.0111,No,No,FALSE,9/15/2025,Nursing,,MD,63422,65
+S100116,Hannah, Williams ,hannah.williams66@mail.example.edu,2405550147,FALSE,N,0,2022-12-15,Education,3.55,WI,57314,126
+S100201,Emily,Harris,emily.harris92@mail.example.edu,(312) 555-0148,No,TRUE,,2024-05-21,Communications,2.71,NY,24908,28
+S100538,Brianna, King ,brianna.king36@mail.example.edu,(248) 555-0105,no,yes,0,2023-03-23,Engineering,1.93,IN,97973,95
+S100154,Marcus,Williams,marcus.williams94@mail.example.edu,301.555.0143,,yes,N,,Biology ,3.8,MI,03506,33
+S100076,Lauren,Jackson,lauren.jackson16@mail.example.edu,(616) 555-0118,Y,TRUE,0,6/19/2023,Education ,2.15,OH,62186,78
+S100104,Olivia,Lewis,olivia.lewis39@mail.example.edu,269.555.0146,no,,FALSE,8/4/2023,Nursing,3.89,VA,82289,84
+S100119,Megan, Davis ,megan.davis14mail.example.edu,(248) 555-0138,yes,,,2022-10-21,Nursing,3.39,OH,20840,113
+S100429,Marcus,Walker,marcus.walker4@mail.example.edu,,no,N,No,"Jun 5, 2022",biology,3.32,WI,36870,23
+S100287,Kevin,Scott,kevin.scott63@mail.example.edu,2405550169,FALSE,1,yes,5/16/2025,Accounting,3.16,IN,38281,7
+S100410,Kevin, Brown ,kevin.brown97@mail.example.con,616.555.0101,TRUE,,FALSE,10/17/2024,Psychology,2.73,VA,13050,32
+S100212,Emily,Carter,emily.carter36@mail.example.edu,3015550171,0,yes,No,2024-03-05,Psychology,3.08,IL,40361,102
+S100402,AISHA,Davis,aisha.davis83@mail.example.edu,2695550192,Yes,0,No,2/27/2022,Computer Information Systems,,MI,33550,68
+S100095,Samuel,Brown,samuel.brown90@mail.example.edu,616-555-0150,1,N,Y,5/9/2024,Education,-1,MD,95688,81
+S100337,Tanya,Thomas,tanya.thomas7@mail.example.edu,301-555-0130,0,0,FALSE,10-04-25,Business Administration,3.82,NY,91880,32
+S100399,Kevin,Carter,kevin.carter22@mail.example.edu,301.555.0130,,yes,Y,"Jan 21, 2024",Biology,2.26,WI,86019,94
+S100245,Chloe,Mitchell,chloe.mitchell85@mail.example.edu,1-269-555-0187,0,Y,0,2024-09-25,Computer Information Systems,2.93,WI,97182,90
+S200046,ZOE,Harris,,248.555.0127,no,N,No,,education,2.41,MI,60600,54
+S100024,Priya,Moore,priya.moore54@mail.example.edu,(269) 555-0160,1,Yes,N,2022-11-02,Computer Information Systems,,IL,20973,121
+S100192,Jamal,Green,jamal.green32@mail.example.edu,,No,No,,,Communications,3.67,WI,42342,70
+S100280,omar,Brown,omar.brown2@mail.example.edu,(269) 555-0177,no,yes,,3/28/2022,Psychology,2.57,OH,66619,61
+S100338,Maria,Taylor,maria.taylor8@mail.example.edu,248.555.0148,0,TRUE,no,"Aug 13, 2022",Engineering,3.74,MD,45514,6
+S100229,MALIK,Garcia,malik.garcia48@mail.example.edu,269.555.0197,1,No,Y,12/28/2022,Psychology,2.71,OH,28400,27
+S100598,Maria,Lee,maria.lee26@mail.example.edu,240.555.0195,,no,0,08-02-24,Biology,3.75,IN,67990,3
+S100362,Aisha,Martinez,aisha.martinez31@mail.example.edu,3125550192,yes,no,no,5/10/2023,Accounting,3.2,IN,64068,92
+S100096,PRIYA,Harris,PRIYA.HARRIS95@MAIL.EXAMPLE.EDU,248-555-0170,0,TRUE,Y,2024-04-13,Accounting,2.9,NY,90764,125
+S100293,Hannah,Lewis,hannah.lewis5@mail.example.edu,(248) 555-0117,Y,,1,2022-12-16,computer information systems,3.77,OH,40056,104
+S100364,Megan, Lewis ,megan.lewis65@mail.example.edu,248.555.0162,TRUE,TRUE,N,11/19/2024,Business Administration,1.89,VA,51439,41
+S100083,Megan,Williams,megan.williams62@mail.example.edu,301-555-0134,Y,yes,No,4/2/2023,Communications,-1,IN,44292,25
+S100388,Grace,Johnson,grace.johnson92@mail.example.edu,301.555.0195,,1,,3/22/2025,Communications,2.18,VA,18474,13
+S100062,Lauren,Green,lauren.green61@mail.example.edu,1-616-555-0147,0,FALSE,FALSE,09-17-25,Criminal Justice,3.6,MD,19140,13
+S100071,Megan,Clark,megan.clark63@mail.example.edu,6165550109,FALSE,No,,,Business Administration,2.44,IL,21644,44
+S100125,Jamal,Garcia,jamal.garcia5@mail.example.edu,1-240-555-0194,no,N,no,5/27/2024,Business Administration,2.06,OH,07903,11
+S100454,Malik,Nelson,malik.nelson85@mail.example.con,,1,Y,yes,10-20-24,criminal justice,1.86,NY,31369,27
+S100206,SAMUEL,Wilson,SAMUEL.WILSON93@MAIL.EXAMPLE.EDU,,1,Y,1,10-06-23,Communications,3.41,IN,79470,41
+S100521,Ethan,Lee,ethan.lee75@mail.example.edu,301.555.0101,1,1,TRUE,6/21/2023,Nursing,2.9,NY,50542,124
+S100184,omar,Mitchell,omar.mitchell65@mail.example.edu,1-269-555-0161,0,1,Yes,"Sep 14, 2025",Education,3.33,OH,64192,97
+S100467,luis,Garcia,luis.garcia71@mail.example.edu,(269) 555-0156,Y,Y,FALSE,2023-03-28,Accounting,2.31,MI,25150,112
+S100135,Megan,Martinez,MEGAN.MARTINEZ3@MAIL.EXAMPLE.EDU,,1,N,No,10/4/2025,Education,2.1,IN,58261,124
+S100494,Samuel,Harris,samuel.harris25@mail.example.edu,616-555-0195,no,FALSE,N,10/10/2022,education,2.61,NY,02703,8
+S100034,Natalie,Garcia,natalie.garcia57@mail.example.edu,616.555.0174,FALSE,No,FALSE,2024-06-22,Business Administration,2.53,MI,38777,102
+S100035,Hannah,Williams,hannah.williams52@mail.example.edu,269-555-0184,FALSE,TRUE,Yes,2024-10-25,Engineering,3.47,NY,72987,73
+S100511,Olivia,Green,olivia.green6@mail.example.edu,616.555.0186,Yes,TRUE,no,2025-11-05,Psychology,3.12,MD,42701,
+S100585,AISHA,Garcia,,1-312-555-0110,FALSE,Yes,,2024-12-22,Accounting,1.94,WI,42820,122
+S100286,Omar,Walker,,269-555-0155,No,TRUE,FALSE,2025-08-15,computer information systems,3.02,IN,40720,42
+S100224,Zoe,Anderson,zoe.anderson72@mail.example.edu,(240) 555-0106,FALSE,TRUE,Y,08-06-24,Criminal Justice,3.82,OH,19643,115
+S100592,Samuel,Mitchell,samuel.mitchell49@mail.example.edu,269.555.0138,yes,Y,Yes,2025-02-12,Engineering,3.98,OH,51072,113
+S100474,SAMUEL,Garcia,samuel.garcia58@mail.example.edu,,TRUE,Y,FALSE,12-25-23,Accounting,9.3,NY,78798,116
+S100243,Sofia,Wilson,SOFIA.WILSON54@MAIL.EXAMPLE.EDU,(240) 555-0116,No,,Yes,2025-11-14,nursing,3.21,NY,60772,108
+S100549,Samuel,Young,samuel.young86@mail.example.edu,240.555.0155,,No,Y,05-21-24,Communications,3.27,NY,47748,25
+S100055,Malik,Williams,malik.williams91@mail.example.edu,248.555.0114,N,yes,0,2/14/2024,Business Administration,3.1,IN,52873,86
+S100491,Natalie,Green,natalie.green33@mail.example.edu,(240) 555-0184,0,yes,No,03-09-24,Accounting,3.55,NY,51193,70
+S100326,PRIYA,Hall,priya.hall57@mail.example.edu,240-555-0111,Yes,0,,09-21-24,Business Administration,1.99,IL,72019,13
+S100189,Natalie, Wilson ,natalie.wilson12@mail.example.edu,240-555-0171,N,N,Y,2023-08-13,accounting,2.19,OH,74220,75
+S100067,Aisha,Scott,aisha.scott6@mail.example.edu,269-555-0140,1,TRUE,1,11/7/2022,Psychology,3.52,VA,44506,94
+S100269,Ethan,Adams,ethan.adams53@mail.example.edu,555-0182,FALSE,0,,08-10-25,Accounting,3.54,MI,35079,95
+S100363,Omar,Clark,omar.clark20@mail.example.edu,,TRUE,No,Y,9/24/2023,Nursing,2.82,IN,50171,123
+S100531,Natalie,Wilson,natalie.wilson70@mail.example.edu,2485550171,Y,Yes,yes,12-23-22,Education,2.59,IL,98946,47
+S100221,Marcus, Moore ,marcus.moore41@mail.example.edu,312.555.0152,,Y,yes,03-06-22,Computer Information Systems,3.15,MI,75323,59
+S100436,Olivia,Scott,olivia.scott17@mail.example.edu,6165550196,TRUE,,FALSE,10-16-23,Engineering,2.51,MD,30600,75
+S100188,Lauren, Nelson ,lauren.nelson85@mail.example.edu,(301) 555-0136,0,1,1,11-02-23,Education,1.8,VA,37167,90
+S100255,Omar,Williams,omar.williams5@mail.example.con,(240) 555-0175,TRUE,No,1,9/27/2025,Engineering,1.84,IL,45265,10
+S100567,Maria,Davis,maria.davis55@mail.example.edu,240.555.0180,,Y,TRUE,07-13-25,Psychology,2.22,NY,34216,101
+S100013,Tyler,Taylor,tyler.taylor79@mail.example.edu,(240) 555-0167,1,Y,,2023-05-04,Business Administration,2.14,WI,28607,52
+S100289,Natalie,Walker,,2485550148,N,0,No,12-22-22,Biology,2.91,VA,45504,76
+S100476,Natalie,Mitchell,natalie.mitchell16@mail.example.edu,(312) 555-0156,yes,Y,Y,,Psychology,2.26,IL,99941,10
+S100380,Diego,Allen,diego.allen56@mail.example.edu,616.555.0112,1,yes,TRUE,07-18-22,Communications,9.0,IL,71645,31
+S100068,Samuel,Clark,samuel.clark64@mail.example.edu,248.555.0166,No,TRUE,No,9/10/2023,Education,2.52,NY,59447,109
+S100072,Daniel,Wilson,daniel.wilson47@mail.example.edu,555-0159,1,yes,0,"May 13, 2022",Engineering,3.49,NY,10666,81
+S100085,Tanya,Lee,tanya.lee38@mail.example.edu,2695550138,No,N,Y,3/28/2025,Communications,2.22,MI,22298,65
+S100052,Isaac, Perez ,isaac.perez35@mail.example.edu,248.555.0143,yes,yes,0,03-24-22,computer information systems,2.97,MD,60460,94
+S100060,Kevin,Hall,kevin.hall86@mail.example.edu,240-555-0187,No,,,1/12/2024,Psychology ,2.27,WI,64736,35
+S100359,Olivia,Brown,olivia.brown87@mail.example.edu,240.555.0117,,N,,1/20/2024,Accounting,2.92,OH,66984,3
+S100453,Sofia, Clark ,sofia.clark21@mail.example.edu,301.555.0126,1,TRUE,1,2023-06-21,Accounting,3.37,OH,37482,77
+S100366,James,Brown,james.brown51@mail.example.edu,269-555-0166,TRUE,yes,TRUE,2024-09-18,Criminal Justice,3.41,MD,96374,27
+S100118,Aisha,King,AISHA.KING84@MAIL.EXAMPLE.EDU,312.555.0180,no,TRUE,,2022-01-07,engineering,3.11,VA,59335,87
+S100253,Natalie,Green,natalie.green20@mail.example.edu,1-269-555-0104,Y,yes,N,"Sep 23, 2022",Engineering,2.69,NY,10188,0
+S100299,Tyler,Martinez,tyler.martinez74@mail.example.edu,1-269-555-0171,,no,No,,nursing,3.16,OH,20562,94
+S100596,Grace,Baker,grace.baker38@mail.example.edu,1-240-555-0191,1,No,Yes,2022-04-08,Accounting,9.3,IN,67735,42
+S100175,Emily,Harris,emily.harris24@mail.example.edu,(248) 555-0124,,0,Yes,"Nov 18, 2025",Business Administration,-1,IL,96104,84
+S100587,GRACE,Jackson,grace.jackson85@mail.example.edu,616-555-0175,no,No,Yes,5/11/2023,biology,2.66,NY,73001,48
+S100094,Grace, Anderson ,grace.anderson58@mail.example.edu,,no,Yes,Y,2/7/2022,Accounting,3.03,IL,44642,3
+S100155,Natalie,Walker,natalie.walker5@mail.example.edu,,0,Yes,0,,computer information systems,2.05,IL,17199,121
+S100023,LUIS,Lewis,luis.lewis87@mail.example.edu,240-555-0121,yes,0,1,2025-10-19,computer information systems,2.74,NY,24819,97
+S100560,Megan, Lewis ,megan.lewis46@mail.example.con,3125550132,yes,Y,TRUE,2024-11-21,Business Administration,3.45,MI,03673,15
+S100396,Samuel,Baker,samuel.baker36@mail.example.edu,312-555-0111,yes,,0,2023-04-23,Engineering,1.96,IL,45944,121
+S200720,ZOE,Young,,(269) 555-0128,yes,no,Y,2023-02-14,business administration,3.5,MI,06572,8
+S100458,Jamal,Garcia,jamal.garcia38@mail.example.edu,,No,yes,Y,2023-09-20,Communications,3.16,MI,15532,67
+S100387,Kevin,King,kevin.king41@mail.example.edu,(240) 555-0110,no,No,yes,12/10/2022,Communications,,OH,56572,34
+S100470,TANYA,Allen,tanya.allen49@mail.example.edu,240-555-0110,no,0,1,,Business Administration,,IL,62909,112
+S100445,Natalie,Walker,natalie.walker59@mail.example.edu,(248) 555-0136,Yes,FALSE,,2023-09-10,Accounting,2.16,IL,09469,3
+S100003,natalie,Wilson,natalie.wilson38@mail.example.edu,616.555.0112,FALSE,,N,2024-04-22,Psychology,7.9,WI,71010,41
+S100128,Natalie,Brown,natalie.brown76@mail.example.edu,312-555-0184,no,Y,Y,"Dec 27, 2025",Education,5.6,NY,77638,27
+S100249,Chloe,Wright,chloe.wright46@mail.example.edu,312-555-0178,Y,N,Y,2022-05-21,Accounting,3.5,IN,97247,49
+S100247,JAMES,Green,james.green76@mail.example.edu,240.555.0157,yes,Y,no,6/3/2022,Nursing,3.61,NY,99665,98
+S100102,Andre,Lee,andre.lee11@mail.example.edu,,No,Y,yes,12/13/2023,Education,2.0,OH,59292,69
+S100040,Lauren,King,lauren.king39@mail.example.edu,555-0141,Y,N,N,9/14/2023,Accounting,2.2,IN,80887,61
+S100080,Isaac,Lewis,isaac.lewis75@mail.example.edu,2405550106,yes,1,,03-27-25,biology,-1,IL,03482,107
+S100529,Emily,Wright,emily.wright42@mail.example.edu,3125550141,no,no,0,2/3/2024,Biology ,3.39,VA,78717,11
+S100057,Ethan,King,ethan.king81@mail.example.edu,(248) 555-0175,1,No,Y,1/12/2022,psychology,3.7,MI,81610,98
+S100219,Priya,Lewis,priya.lewis46@mail.example.edu,248-555-0130,1,Y,Yes,1/18/2025,Psychology,2.55,IL,18991,97
+S100170,Aisha,Adams,,301.555.0120,1,TRUE,No,2023-11-11,Education,2.28,MD,70533,2
+S100530,Megan,Perez,megan.perez76@mail.example.edu,1-269-555-0107,Y,1,N,2/16/2024,Nursing,1.96,WI,97003,38
+S100597,Andre,Johnson,andre.johnson72@mail.example.edu,312-555-0120,0,Y,N,2024-07-04,Psychology,2.78,OH,89060,103
+S100021,Isaac,Nelson,isaac.nelson71@mail.example.edu,616-555-0195,FALSE,Y,no,09-16-24,Biology,1.97,IL,36614,20
+S100589,Chloe,Taylor,chloe.taylor17@mail.example.edu,(312) 555-0108,N,TRUE,no,2024-12-08,Education,3.78,IN,37769,84
+S100151,Brianna,Williams,brianna.williams54@mail.example.edu,248.555.0147,Y,FALSE,No,8/7/2022,Communications,3.3,IL,55146,38
+S100467,luis,Garcia,luis.garcia71@mail.example.edu,(269) 555-0156,Y,Y,FALSE,2023-03-28,Accounting,2.31,MI,25150,112
+S100090,Lauren,King,lauren.king49@mail.example.edu,(312) 555-0148,,1,yes,02-06-24,Communications,2.08,VA,01455,76
+S100502,Samuel,Lee,samuel.lee77@mail.example.edu,240.555.0151,no,1,No,10/13/2024,accounting,2.93,IN,79230,50
+S100265,Marcus,Scott,marcus.scott59@mail.example.edu,616.555.0190,N,,FALSE,11-03-22,Criminal Justice,,OH,56823,53
+S100358,Luis,Brown,luis.brown2@mail.example.edu,248.555.0101,FALSE,no,No,11-20-24,education,3.75,IN,79494,26
+S100061,ETHAN,Adams,ethan.adams95@mail.example.edu,269.555.0184,0,yes,0,3/27/2023,Accounting,2.16,WI,54852,60
+S100221,Marcus, Moore ,marcus.moore41@mail.example.edu,312.555.0152,,Y,yes,03-06-22,Computer Information Systems,3.15,MI,75323,59
+S100492,EMILY,Martinez,emily.martinez28mail.example.edu,(301) 555-0118,FALSE,Yes,N,2022-03-17,Engineering,2.84,VA,16374,100
+S100546,Maria,Lee,maria.lee61@mail.example.edu,616-555-0192,Yes,No,Y,04-24-24,Accounting,1.95,IL,19389,41
+S100487,Chloe, Green ,chloe.green64@mail.example.edu,248.555.0194,yes,Yes,N,01-09-25,Biology,3.55,NY,42027,60
+S100335,Zoe,Walker,zoe.walker3@mail.example.edu,2405550186,Y,,1,"Jul 21, 2022",Computer Information Systems,2.51,MI,54330,119
+S100275,Emily,Martinez,emily.martinez39@mail.example.edu,2485550163,FALSE,no,Yes,05-10-23,Engineering,3.27,WI,24510,
+S100411,Isaac,Garcia,isaac.garcia72@mail.example.edu,2695550188,N,,,3/2/2025,Education,-1,WI,11198,
+S100199,Kevin,Anderson,kevin.anderson17@mail.example.edu,(616) 555-0103,N,N,FALSE,9/15/2024,Nursing,3.33,WI,79326,111
+S100290,Emily, Lewis ,emily.lewis69@mail.example.edu,248.555.0106,0,TRUE,no,12/28/2022,accounting,8.8,WI,63294,88
+S100357,Maria,Baker,maria.baker31@mail.example.con,(269) 555-0153,Yes,N,no,04-04-22,Nursing,1.9,VA,43879,48
+S100594,Natalie, Baker ,natalie.baker92@mail.example.edu,312-555-0108,yes,yes,No,2/25/2023,Education,2.54,VA,99415,102
+S100238,Tanya,Adams,tanya.adams88@mail.example.edu,(312) 555-0160,no,yes,0,2024-07-06,Education,3.74,NY,4966,28
+S100093,ANDRE,Lewis,andre.lewis83@mail.example.edu,1-301-555-0140,TRUE,yes,Y,4/28/2025,Biology,3.36,IN,08552,106
+S100258,Olivia,Davis,olivia.davis22@mail.example.edu,(301) 555-0105,,0,TRUE,08-03-22,computer information systems,3.84,NY,78821,106
+S100036,Daniel,Johnson,daniel.johnson21@mail.example.edu,269.555.0170,no,No,FALSE,"Aug 23, 2023",Psychology,2.4,IN,62894,37
+S100228,Maria, King ,maria.king74@mail.example.edu,248-555-0142,Yes,No,TRUE,,Accounting,3.34,MD,74685,116
+S100537,Samuel, Moore ,samuel.moore65@mail.example.edu,(248) 555-0165,FALSE,Yes,Yes,7/28/2025,Business Administration,3.88,OH,57904,76
+S100015,LUIS,Davis,luis.davis6@mail.example.edu,(616) 555-0187,No,N,1,"Oct 24, 2025",Nursing,2.32,MD,24206,6
+S100400,Samuel,Davis,samuel.davis8@mail.example.edu,(269) 555-0145,Y,yes,Y,,Criminal Justice,2.37,WI,80212,113
+S100346,SOFIA,Baker,sofia.baker46@mail.example.edu,2695550159,N,TRUE,FALSE,6/26/2025,Engineering,2.64,OH,31643,19
+S100442,OLIVIA,Mitchell,olivia.mitchell2@mail.example.edu,(312) 555-0174,no,FALSE,No,2022-10-22,Psychology,2.96,MD,20212,25
+S100304,daniel,Mitchell,daniel.mitchell91@mail.example.edu,(312) 555-0163,yes,No,N,2024-03-27,Nursing,3.61,IN,87918,1
+S100066,Grace,Carter,grace.carter33@mail.example.edu,248.555.0108,,,No,03-02-24,Education,3.59,IN,90742,122
+S100503,Sofia,Wright,sofia.wright40@mail.example.edu,6165550144,yes,FALSE,Yes,03-10-23,psychology,2.32,MD,12818,39
+S100006,Lauren,King,lauren.king1@mail.example.edu,240-555-0133,yes,1,No,"Nov 17, 2024",Accounting ,2.62,OH,70514,82
+S100482,Omar, Green ,omar.green58@mail.example.edu,3015550121,,No,0,10/18/2023,Computer Information Systems,1.85,OH,93370,90
+S100591,Diego,Baker,diego.baker8@mail.example.edu,(616) 555-0181,N,0,FALSE,6/16/2024,Education,2.98,MI,85651,30
+S100315,Daniel,Adams,daniel.adams27@mail.example.edu,269-555-0145,N,,yes,2022-02-11,Crim Justice,2.3,MI,64748,87
+S100557,Samuel,Jackson,samuel.jackson29@mail.example.edu,3015550106,FALSE,FALSE,0,1/18/2023,Engineering,1.93,WI,93577,90
+S100563,Diego, Clark ,diego.clark32@mail.example.edu,(616) 555-0162,TRUE,Yes,N,2025-11-23,accounting,2.94,IL,43015,100
+S100438,ETHAN,Walker,ethan.walker47@mail.example.edu,3125550179,TRUE,no,No,2023-11-10,Accounting,2.12,IN,98652,4
+S100361,Lauren,Johnson,lauren.johnson27@mail.example.edu,555-0131,no,0,TRUE,8/21/2023,computer information systems,2.88,IN,07829,36
+S100528,Lauren,Green,lauren.green39@mail.example.edu,,N,FALSE,Y,7/1/2025,criminal justice,2.7,IL,19340,
+S100283,EMILY,Carter,emily.carter61@mail.example.edu,(248) 555-0122,,FALSE,,2025-09-22,Biz Admin,2.67,IL,14332,43
+S100159,Olivia,Nelson,olivia.nelson84@mail.example.edu,(616) 555-0114,Yes,yes,No,10/22/2025,Engineering ,2.64,NY,04777,33
+S100166,Emily,Wilson,EMILY.WILSON87@MAIL.EXAMPLE.EDU,240-555-0183,yes,1,1,12-04-24,Education,3.08,VA,94077,73
+S100018,Victor,Perez,victor.perez93@mail.example.edu,1-301-555-0139,N,TRUE,Y,7/22/2023,Criminal Justice,3.79,IL,40446,0
+S100241,Aisha,Wilson,aisha.wilson82@mail.example.edu,(616) 555-0184,1,Y,TRUE,4/7/2025,Education,3.55,MI,57980,88
+S100310,Aisha,Harris,aisha.harris59@mail.example.edu,555-0179,N,yes,no,2024-11-04,Criminal Justice,1.81,NY,23509,117
+S100542,Victor,Allen,victor.allen98@mail.example.edu,248.555.0154,yes,0,Yes,11-02-25,Biology,1.83,NY,32172,
+S100173,Andre,Williams,andre.williams50@mail.example.edu,312.555.0155,TRUE,,No,12/19/2022,Computer Information Systems,1.96,WI,14911,77
+S100527,Lauren,Anderson,lauren.anderson68@mail.example.edu,240-555-0138,no,0,,2023-04-25,Criminal Justice,3.68,VA,21595,121
+S100500,Sofia,Hall,sofia.hall83@mail.example.edu,248.555.0126,1,1,Y,2023-05-07,Engineering,3.83,MD,83721,35
+S100577,Isaac,Perez,isaac.perez44@mail.example.edu,(248) 555-0138,1,yes,yes,2022-09-20,Crim Justice,3.02,IN,37861,63
+S200238,PRIYA,Harris,priya.harris18@mail.example.edu,240-555-0142,,Yes,no,6/3/2022,Criminal Justice,7.5,NY,17969,10
+S100473,Olivia,Baker,olivia.baker17@mail.example.edu,1-312-555-0103,No,yes,1,"Jul 12, 2025",Nursing,3.03,OH,16601,86
+S100324,Daniel,Brown,daniel.brown16@mail.example.edu,248.555.0138,Yes,yes,yes,01-10-25,Psychology,3.6,VA,17033,17
+S100583,James, Harris ,james.harris11@mail.example.edu,(240) 555-0167,no,FALSE,0,05-24-25,Accounting,1.93,IL,1827,50
+S100426,Tanya, Hall ,tanya.hall4@mail.example.edu,2405550198,Yes,0,1,"Oct 13, 2022",Computer Information Systems,2.09,IL,83772,47
+S100371,Victor,Clark,victor.clark11@mail.example.edu,312-555-0184,No,TRUE,Y,9/19/2023,communications,9.0,NY,72925,119
+S100126,Zoe,Clark,zoe.clark12@mail.example.edu,(269) 555-0147,0,Y,0,2024-10-16,Biology,3.0,MD,20735,
+S100522,marcus,Lewis,marcus.lewis44@mail.example.edu,(616) 555-0128,0,No,,2025-08-19,Computer Information Systems,3.66,MI,69697,51
+S100048,Diego,Adams,DIEGO.ADAMS7@MAIL.EXAMPLE.EDU,(312) 555-0167,No,FALSE,FALSE,08-17-22,Biology,1.9,MI,87363,117
+S100279,Zoe,Young,,(269) 555-0128,yes,no,Y,2023-02-14,business administration,3.5,MI,06572,8
+S100130,Ethan, Clark ,ethan.clark14@mail.example.edu,(616) 555-0115,no,yes,no,11-21-24,Business Administration,2.37,NY,03857,50
+S100244,Chloe,Harris,chloe.harris24@mail.example.edu,2695550173,no,1,Y,1/2/2024,Accounting,2.61,OH,91504,71
+S100045,Omar,Johnson,omar.johnson79@mail.example.edu,269-555-0181,Y,,TRUE,2022-01-10,Engineering,2.32,IN,51940,107
+S100569,emily,Davis,emily.davis15@mail.example.edu,(312) 555-0123,No,no,TRUE,12/5/2025,Engineering,1.89,MI,25768,81
+S100389,Marcus,Jackson,marcus.jackson70@mail.example.edu,269.555.0137,Y,Y,no,2025-04-10,Communications,1.88,NY,81969,14
+S100250,PRIYA, Hall ,,(269) 555-0167,FALSE,N,no,04-02-24,Computer Information Systems,1.93,OH,29419,31
+S100493,Megan,Lewis,megan.lewis11@mail.example.edu,616-555-0121,Y,yes,TRUE,12/26/2025,Psychology,3.03,MD,46636,93
+S100020,Hannah,Harris,hannah.harris50@mail.example.edu,1-616-555-0118,Yes,No,TRUE,2025-01-18,Biology,2.07,NY,61901,81
+S100195,OMAR,Adams,omar.adams18@mail.example.edu,2405550166,N,FALSE,Y,2022-07-04,nursing,3.59,MD,83557,85
+S100014,Chloe, Lewis ,chloe.lewis82@mail.example.edu,(248) 555-0105,yes,,Y,2025-09-23,Criminal Justice,2.05,IN,91573,9
+S100252,grace,Lee,grace.lee34@mail.example.con,269-555-0162,no,0,TRUE,2025-02-05,Communications,2.28,OH,58878,26
+S100351,Maria,Nelson,maria.nelson9@mail.example.edu,(312) 555-0136,Y,,1,2022-06-17,Computer Information Systems ,3.69,NY,21582,33
+S100498,Aisha, Brown ,aisha.brown41@mail.example.edu,(269) 555-0198,Yes,no,,12/8/2022,Psychology,3.21,VA,26046,33
+S100486,Lauren,Hall,lauren.hall4@mail.example.edu,616.555.0157,0,No,,2023-11-03,Business Administration,2.26,NY,78779,36
+S100180,Daniel,Scott,daniel.scott95@mail.example.edu,(301) 555-0172,,TRUE,N,9/9/2022,Criminal Justice,2.29,MI,46224,123
+S100451,James,Nelson,james.nelson39@mail.example.edu,616-555-0130,1,Y,0,07-05-22,Computer Information Systems ,3.6,WI,23383,51
+S100318,Diego,Anderson,diego.anderson59@mail.example.edu,301.555.0187,Yes,FALSE,yes,02-11-22,Education,3.5,MI,52546,38
+S100301,Jamal,Young,jamal.young83@mail.example.edu,(269) 555-0160,N,TRUE,,2025-12-14,Accounting,,MI,44628,120
+S100353,Hannah,Clark,hannah.clark59@mail.example.edu,240.555.0138,yes,TRUE,no,2025-08-13,Nursing,2.01,WI,06723,40
+S100217,Kevin,Clark,kevin.clark28@mail.example.edu,301.555.0196,FALSE,0,yes,07-19-22,communications,2.17,MI,92295,13
+S100101,Victor,Mitchell,victor.mitchell89@mail.example.edu,301-555-0195,Yes,No,TRUE,2022-06-20,Accounting,2.67,MD,04883,115
+S100393,Luis,Lewis,luis.lewis32@mail.example.edu,(240) 555-0165,Y,No,Y,,Criminal Justice ,3.35,IN,92900,46
+S100485,CHLOE,Green,chloe.green26mail.example.edu,2405550173,Y,TRUE,No,2025-09-09,Engineering,3.35,MD,51123,127
+S100262,Maria,Mitchell,maria.mitchell23@mail.example.edu,,,N,Y,2023-01-23,accounting,2.1,WI,61106,87
+S100544,Aisha,Adams,aisha.adams17mail.example.edu,(312) 555-0114,Y,yes,N,2025-09-03,Communications ,3.6,IL,67965,56
+S100566,Hannah, Martinez ,hannah.martinez27@mail.example.edu,1-301-555-0181,Yes,TRUE,no,"May 1, 2022",Biology,3.81,VA,24207,58
+S100328,Daniel,Brown,daniel.brown99mail.example.edu,1-248-555-0152,Yes,0,N,2022-05-13,Business Administration,2.71,IL,50219,30
+S100512,Jamal,Williams,jamal.williams59@mail.example.edu,240.555.0176,TRUE,FALSE,1,2024-06-12,Engineering,3.68,MI,70761,99
+S100033,Isaac,Green,isaac.green60@mail.example.edu,240-555-0151,1,1,FALSE,7/24/2022,Education,1.86,WI,89381,5
+S100504,James,Lewis,james.lewis51@mail.example.edu,312.555.0185,FALSE,no,No,3/13/2024,Education,3.6,MI,56652,18
+S100584,megan,Brown,megan.brown42@mail.example.edu,616.555.0120,0,Y,0,4/14/2024,Psychology,3.42,IN,86831,64
+S100490,James, Moore ,james.moore1@mail.example.edu,1-616-555-0125,1,FALSE,N,2025-10-06,Business Administration,3.03,VA,83420,49
+S100439,Olivia,Johnson,olivia.johnson16@mail.example.edu,269.555.0145,yes,TRUE,1,1/15/2024,Psychology,1.91,WI,56389,48
+S100312,Sofia,Lewis,sofia.lewis95@mail.example.edu,(312) 555-0160,FALSE,0,no,2025-01-11,CIS,3.66,VA,55484,74
+S100214,Maria,Taylor,maria.taylor42@mail.example.edu,(616) 555-0119,TRUE,FALSE,0,4/14/2022,Psychology,2.13,WI,63371,12
+S100384,Luis,Nelson,luis.nelson4@mail.example.edu,616.555.0109,1,No,,6/21/2022,Business Administration,2.53,IL,30591,25
+S100398,Diego,Scott,diego.scott69@mail.example.edu,269.555.0121,1,TRUE,1,10-09-25,Biology ,2.15,WI,92320,116
+S100599,Ethan,Moore,ethan.moore42@mail.example.edu,,FALSE,FALSE,1,2/20/2023,Business Administration,3.68,VA,02469,0
+S100308,Isaac, Martinez ,isaac.martinez44@mail.example.edu,1-240-555-0128,yes,FALSE,1,5/15/2022,criminal justice,3.56,VA,17749,76
+S100011,Sofia,Wilson,,(248) 555-0107,FALSE,1,1,2022-03-03,accounting,3.7,VA,75668,10
+S100413,Priya,Baker,priya.baker87mail.example.edu,3125550194,1,yes,Yes,8/19/2025,Computer Information Systems,2.13,IN,83044,59
+S100367,Tanya,Davis,tanya.davis90@mail.example.edu,(616) 555-0162,No,TRUE,1,12/14/2024,Nursing ,2.21,IL,64762,28
+S100433,Priya,Nelson,,(248) 555-0153,FALSE,yes,0,2025-04-19,Computer Information Systems,3.22,VA,01609,72
+S100122,Luis,Scott,luis.scott20@mail.example.edu,2485550110,no,yes,1,2022-05-23,Criminal Justice,,MI,12300,29
+S100464,Omar, Johnson ,omar.johnson27@mail.example.edu,2405550155,,Y,Yes,1/20/2024,Education,3.8,VA,78458,7
+S100571,ANDRE,Moore,andre.moore53@mail.example.edu,,N,N,Yes,2022-11-08,Computer Information Systems,3.04,MI,75311,57
+S100069,TYLER,Clark,tyler.clark46@mail.example.edu,1-312-555-0135,Yes,No,,9/26/2024,Nursing,2.11,MD,58432,17
+S100039,ethan,King,ethan.king34@mail.example.edu,1-240-555-0150,N,,1,11/23/2024,Engineering,7.9,OH,38667,23
+S100191,CHLOE,Hall,chloe.hall32@mail.example.edu,,N,No,1,"Jun 12, 2025",Biology,2.39,IL,90536,48
+S100213,Samuel,Williams,samuel.williams89@mail.example.edu,1-269-555-0176,Yes,0,TRUE,2022-06-12,Criminal Justice,3.71,VA,30716,2
+S100124,OLIVIA,Walker,olivia.walker74@mail.example.edu,3125550158,Yes,FALSE,0,2023-05-25,Business Administration,3.28,MI,98095,11
+S100303,Samuel,Jackson,samuel.jackson79@mail.example.edu,248.555.0166,yes,N,FALSE,09-28-23,engineering,2.13,VA,05700,41
+S100032,Jamal,Martinez,jamal.martinez89@mail.example.edu,(248) 555-0104,Y,FALSE,No,11-19-24,Biology,3.0,WI,35816,18
+S100017,Victor,Nelson,victor.nelson34@mail.example.con,(248) 555-0104,TRUE,N,N,7/19/2022,Biology,,OH,71575,50
+S100025,Hannah,Scott,hannah.scott96@mail.example.edu,(616) 555-0139,Yes,Y,0,07-23-25,biology,3.32,OH,14356,77
+S100196,Andre, Hall ,andre.hall16@mail.example.edu,(240) 555-0177,0,,,6/11/2024,Communications,3.42,IN,50947,118
+S100099,Tyler,Lee,tyler.lee39@mail.example.edu,269-555-0183,,Yes,No,9/16/2025,Computer Information Systems,9.1,MI,85529,24
+S100215,Aisha,Lee,aisha.lee18@mail.example.edu,616.555.0162,0,no,1,4/3/2023,Psychology,2.51,MD,12743,105
+S100311,Kevin,Young,kevin.young89@mail.example.edu,(248) 555-0111,Yes,no,No,01-07-23,Engineering,3.23,NY,83058,48
+S100416,Daniel,Allen,daniel.allen53@mail.example.edu,240.555.0116,1,0,N,9/15/2025,Psychology,,MI,85392,62
+S100248,Samuel,King,samuel.king7@mail.example.edu,(269) 555-0106,TRUE,FALSE,Y,7/22/2023,Criminal Justice,2.12,MD,02554,114
+S100314,Tyler,Clark,tyler.clark44@mail.example.edu,2405550184,Y,TRUE,TRUE,08-26-24,Nursing,2.42,NY,88432,44
+S100074,Sofia,King,sofia.king22@mail.example.edu,(301) 555-0119,0,0,N,01-03-22,Computer Information Systems,3.5,MI,28631,106
+S100148,brianna,Martinez,brianna.martinez40@mail.example.edu,240.555.0182,TRUE,N,FALSE,2025-05-22,Communications,-1,WI,68045,95
+S100508,luis,Garcia,luis.garcia59@mail.example.edu,301.555.0187,TRUE,N,,2022-09-09,Nursing,2.72,MI,40017,28
+S100111,Malik,Young,malik.young31@mail.example.edu,1-616-555-0147,1,TRUE,TRUE,7/6/2025,Engineering,3.33,IN,23706,125
+S100517,Marcus,Lewis,,2695550126,FALSE,no,,3/15/2023,Communications,3.57,MI,21875,
+S100001,BRIANNA,Brown,BRIANNA.BROWN29@MAIL.EXAMPLE.EDU,,1,No,0,2/7/2022,Biology,1.86,WI,86181,107
+S100193,Grace,Anderson,grace.anderson55@mail.example.edu,3015550104,TRUE,,yes,12/17/2022,Engineering,1.82,WI,50732,83
+S100160,daniel,Mitchell,,,0,0,no,,accounting,3.26,MI,46318,98
+S100465,Ethan,Harris,ethan.harris14@mail.example.edu,240.555.0186,1,FALSE,TRUE,3/13/2024,Engineering,3.83,IL,02990,70
+S100232,Grace,Green,grace.green25@mail.example.edu,2485550186,FALSE,Yes,,2023-11-15,Communications,2.82,MD,98332,76
+S100109,maria,Adams,maria.adams14@mail.example.edu,(616) 555-0194,yes,1,yes,2025-08-08,Criminal Justice,2.21,VA,52849,50
+S100577,Isaac,Perez,isaac.perez44@mail.example.edu,(248) 555-0138,1,yes,yes,2022-09-20,Crim Justice,3.02,IN,37861,63
+S100360,Kevin,Anderson,KEVIN.ANDERSON8@MAIL.EXAMPLE.EDU,(312) 555-0137,TRUE,no,,2025-12-11,Nursing,3.22,WI,69271,106
+S100225,Marcus,Baker,marcus.baker51@mail.example.edu,(312) 555-0103,0,no,FALSE,2024-12-21,Nursing,2.07,VA,59903,21
+S100403,Diego,Johnson,diego.johnson44@mail.example.edu,(269) 555-0125,0,FALSE,yes,2025-03-08,Computer Information Systems,2.39,OH,03779,26
+S100536,daniel,Nelson,daniel.nelson95@mail.example.edu,269.555.0157,no,no,TRUE,2/6/2022,Communications,3.39,MD,28477,125
+S100405,Zoe,Garcia,zoe.garcia77@mail.example.con,312-555-0119,,Y,0,02-09-24,Engineering,3.85,IN,94232,0
+S100562,Zoe,Clark,zoe.clark20@mail.example.edu,1-312-555-0103,1,No,Y,"Jun 22, 2022",Nursing,-1,VA,26317,86
+S200895,MARIA,Anderson,maria.anderson15@mail.example.edu,3125550176,,1,0,2023-05-14,Computer Information Systems,2.33,MI,88080,92
+S100334,Olivia,Lewis,olivia.lewis26@mail.example.edu,(240) 555-0150,Y,0,1,11/24/2023,Accounting,3.13,IL,78091,16
+S100120,Zoe,Brown,zoe.brown45@mail.example.edu,(248) 555-0117,,No,no,12/1/2024,Psychology,3.14,IL,52347,13
+S100501,Tyler, Allen ,tyler.allen90mail.example.edu,(248) 555-0101,FALSE,N,N,3/12/2022,Psychology ,3.0,VA,58541,116
+S100343,James,Nelson,james.nelson15@mail.example.edu,6165550139,N,N,,2025-12-03,Biz Admin,3.83,VA,26124,95
+S100233,ANDRE,Hall,andre.hall43@mail.example.edu,248-555-0108,Y,Yes,N,,Criminal Justice ,2.06,WI,41407,80
+S100179,Natalie,Allen,natalie.allen62@mail.example.edu,,no,No,Y,11/7/2022,Communications,2.59,MD,60591,10
+S100564,Kevin,Moore,kevin.moore81@mail.example.edu,(312) 555-0148,Yes,FALSE,No,2025-10-13,Psychology,3.53,OH,90660,10
+S100261,MARCUS,Adams,marcus.adams10@mail.example.edu,2405550156,N,TRUE,no,04-25-24,Business Administration,2.02,NY,27208,56
+S100005,Zoe,Allen,zoe.allen66@mail.example.edu,(269) 555-0114,yes,,TRUE,7/20/2025,Engineering,3.94,WI,02504,29
+S100107,Andre,Garcia,andre.garcia69@mail.example.edu,,,,N,2022-10-21,Criminal Justice,2.53,IL,14886,66
+S100533,kevin, Allen ,kevin.allen12@mail.example.edu,(269) 555-0168,1,No,0,"Feb 25, 2023",Criminal Justice,2.82,MD,97853,84
+S100043,Kevin,Adams,kevin.adams12@mail.example.edu,248.555.0195,no,yes,1,"Sep 17, 2024",Psychology,2.37,MD,64156,75
+S200856,NATALIE,Walker,,2485550148,N,0,No,12-22-22,Biology,2.91,VA,45504,76
+S100514,Jamal,Lee,jamal.lee16mail.example.edu,616-555-0127,0,Y,yes,"Sep 14, 2025",Education,2.72,MD,42864,27
+S100115,Kevin,Allen,kevin.allen87@mail.example.edu,555-0196,Yes,Y,,2023-04-05,Education,3.48,VA,65154,68
+S100430,Hannah,Green,hannah.green25@mail.example.edu,616-555-0187,Y,TRUE,No,3/26/2024,Biology,2.87,OH,56540,69
+S100084,James,Hall,james.hall61@mail.example.edu,616-555-0196,N,Y,,2022-11-19,Biology,3.39,MI,23946,45
+S100406,Lauren,King,lauren.king62@mail.example.edu,269.555.0173,Y,yes,No,2023-03-25,Criminal Justice,2.89,IL,55256,85
+S100211,Andre,Moore,andre.moore93@mail.example.edu,6165550172,TRUE,1,Y,8/13/2025,Computer Information Systems,3.96,IL,68844,
+S100143,Priya, Perez ,priya.perez72@mail.example.edu,2485550135,Yes,0,0,2/14/2025,Nursing,3.09,MD,14133,25
+S100588,Luis,Harris,luis.harris8@mail.example.edu,269-555-0108,FALSE,0,Y,2025-04-14,engineering,2.48,IN,83635,109
+S100164,LAUREN,Harris,lauren.harris87@mail.example.edu,1-312-555-0158,1,yes,FALSE,2022-09-14,Accounting,2.92,IN,24226,44
+S200002,CHLOE, Lewis ,chloe.lewis82@mail.example.edu,(248) 555-0105,yes,,Y,2025-09-23,Criminal Justice,2.05,IN,91573,9
+S100350,Malik,Davis,malik.davis81@mail.example.edu,301-555-0173,TRUE,no,TRUE,2025-04-16,Business Administration,3.92,IN,40930,26
+S100149,KEVIN, Wright ,kevin.wright36@mail.example.edu,1-248-555-0133,,Y,no,2023-01-26,Accounting,2.5,VA,04336,75
+S100519,Luis,Adams,luis.adams75@mail.example.edu,(269) 555-0192,TRUE,,N,2023-08-07,psychology,9.4,NY,65431,66
+S100352,Samuel,Williams,samuel.williams27@mail.example.edu,2405550185,0,0,Y,5/7/2025,Computer Information Systems,2.78,NY,80278,84
+S100044,diego,Brown,diego.brown29@mail.example.edu,240-555-0186,1,N,No,05-18-22,Business Administration,3.28,IL,77619,95
+S100169,Kevin,Clark,kevin.clark23@mail.example.edu,(269) 555-0148,Y,1,Y,2024-01-11,Engineering,2.14,MD,43287,77
+S100553,Daniel,Perez,daniel.perez64@mail.example.edu,312.555.0125,FALSE,N,N,03-06-24,education,2.22,IN,67338,75
+S100462,Kevin,Davis,kevin.davis10mail.example.edu,3015550126,N,no,FALSE,09-10-24,Biology,2.39,NY,66987,88
+S100478,Samuel,Williams,samuel.williams81@mail.example.edu,(240) 555-0199,N,Yes,TRUE,2024-04-27,Communications,,VA,84164,62
+S100368,MARCUS,Wilson,marcus.wilson98@mail.example.con,1-312-555-0156,0,No,,2024-02-13,Business Administration,2.55,WI,63638,
+S100341,Ethan,Allen,ETHAN.ALLEN43@MAIL.EXAMPLE.EDU,3125550105,Yes,,no,10-07-25,Biology,3.49,MI,98003,102
+S100141,Tyler,Martinez,tyler.martinez29@mail.example.edu,(301) 555-0107,,No,No,10-08-25,communications,2.65,IL,71190,121
+S100260,Hannah, Baker ,hannah.baker15@mail.example.edu,2405550160,yes,,Yes,2024-05-07,Criminal Justice,3.16,IN,60394,13
+S100089,Diego,Garcia,diego.garcia8@mail.example.edu,,TRUE,Y,Yes,01-14-22,Education,9.3,IN,62875,104
+S100443,Hannah,Lewis,hannah.lewis63@mail.example.edu,312-555-0101,Y,N,1,02-09-25,Communications,1.85,MI,29869,36
+S100369,Lauren, Johnson ,lauren.johnson28@mail.example.edu,1-269-555-0148,Y,FALSE,FALSE,06-12-25,Education,3.6,MD,88173,14
+S100418,Priya,Moore,priya.moore61mail.example.edu,3125550104,FALSE,yes,,2022-10-25,criminal justice,3.58,VA,63050,54
+S100556,Samuel,Thomas,samuel.thomas34@mail.example.edu,248.555.0130,N,No,yes,2023-09-19,nursing,3.82,IL,93845,80
+S100507,Kevin,Harris,kevin.harris58@mail.example.edu,312.555.0191,1,N,No,09-25-25,Criminal Justice,,NY,93741,50
+S100152,Priya,Harris,priya.harris19@mail.example.edu,,FALSE,N,,,Computer Information Systems,2.26,OH,76534,125
+S100300,James,Scott,james.scott87@mail.example.edu,(616) 555-0191,Y,Y,FALSE,4/20/2025,Biology,2.42,WI,55831,
+S100477,james,Lewis,james.lewis74@mail.example.edu,(312) 555-0166,FALSE,Y,No,08-14-22,Engineering,3.7,IL,96896,90
+S100479,Ethan,Anderson,ethan.anderson24@mail.example.edu,(248) 555-0116,No,1,no,2022-08-18,Accounting,2.19,NY,35481,60
+S100382,JAMAL,Taylor,jamal.taylor38@mail.example.edu,3125550117,N,1,N,12/4/2023,Computer Information Systems,2.21,WI,29208,55
+S100412,MARCUS,Hall,marcus.hall2@mail.example.edu,2485550124,,Yes,no,2022-10-26,engineering,2.49,IL,02111,72
+S100595,Brianna,Adams,brianna.adams27@mail.example.edu,269-555-0197,Y,no,no,2022-01-21,Biology,1.89,MD,21005,35
+S100179,Natalie,Allen,natalie.allen62@mail.example.edu,,no,No,Y,11/7/2022,Communications,2.59,MD,60591,10
+S100417,SOFIA,Carter,sofia.carter73@mail.example.edu,269.555.0128,FALSE,,No,2025-11-18,Engineering,-1,OH,53028,51
+S100356,marcus,Williams,marcus.williams57@mail.example.edu,(616) 555-0191,,1,no,11/26/2022,Communications,3.38,MI,52199,113
+S100329,Lauren,Young,lauren.young50@mail.example.edu,248.555.0107,1,TRUE,No,11/8/2025,Computer Information Systems,3.92,VA,33285,32
+S100150,Grace,Lee,grace.lee25@mail.example.edu,1-240-555-0128,,FALSE,,3/27/2024,Communications ,2.01,MD,34902,46
+S100554,Grace, Young ,grace.young77@mail.example.edu,240-555-0151,yes,N,1,7/4/2023,Psychology,3.94,IN,30468,10
+S100565,Kevin,Mitchell,kevin.mitchell83@mail.example.edu,(269) 555-0168,Y,TRUE,no,11/28/2022,Criminal Justice,2.95,OH,49604,11
+S100381,VICTOR,Mitchell,victor.mitchell89@mail.example.con,555-0157,No,Yes,yes,2/18/2023,Psychology,1.88,MI,67341,43
+S100383,sofia,Green,sofia.green49@mail.example.edu,6165550151,Y,,TRUE,"Sep 7, 2023",Business Administration,2.39,IN,85616,95
+S100168,Jamal,Walker,,312.555.0149,,N,1,2024-04-20,Engineering,3.81,IL,85886,50
+S100558,Natalie,Thomas,natalie.thomas63@mail.example.edu,(616) 555-0150,FALSE,Y,1,06-08-24,Accounting,2.92,MI,71728,80
+S100484,brianna,Baker,brianna.baker49@mail.example.edu,616-555-0194,No,No,No,1/1/2025,Communications,2.13,VA,52265,79
+S100468,Andre,Scott,,,0,no,N,2025-02-17,Business Administration,2.52,IN,90262,109
+S100377,Lauren,Adams,lauren.adams91@mail.example.edu,2405550120,FALSE,FALSE,Y,"Apr 26, 2023",Biology,1.82,VA,76455,37
+S100492,EMILY,Martinez,emily.martinez28mail.example.edu,(301) 555-0118,FALSE,Yes,N,2022-03-17,Engineering,2.84,VA,16374,100
+S100091,Andre,Lee,andre.lee36@mail.example.con,(240) 555-0197,,TRUE,0,04-07-22,Biz Admin,1.87,VA,93181,62
+S100373,Ethan,Anderson,ethan.anderson83@mail.example.edu,,TRUE,,,04-08-25,Psychology,8.5,IN,25662,29
+S100294,Grace,Nelson,grace.nelson95@mail.example.edu,1-269-555-0166,0,1,Y,4/20/2022,Business Administration,2.49,IL,97631,60
+S100049,Maria,Lewis,maria.lewis92@mail.example.edu,269.555.0110,yes,No,yes,2024-07-20,Communications,2.91,IL,92983,55
