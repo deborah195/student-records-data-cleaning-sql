@@ -1,22 +1,32 @@
 # Student Records Data Cleaning (SQL)
 
-## Goal
-Clean and standardize a messy student records dataset so it's ready for reliable reporting.
+## Overview
+A data cleaning and analysis project using SQL (SQLite) on three related tables of student records: students, enrollments, and financial aid. The data is synthetic and contains no real people's information.
 
-## Data
-Synthetic dataset of 640 student records, created to mimic common data quality problems. It contains no real people's information. Columns: student ID, name, email, phone, enrollment and financial aid flags, enrollment date, major, GPA, state, ZIP, credits.
+## 1. Ask
+Questions I want to answer:
+- How many student records have unusable contact information (missing or invalid email or phone)?
+- Which data quality problems affect the most records?
+- Do students who complete the FAFSA receive more financial aid?
+- Which majors have the most students receiving aid?
 
-## Process
-1. Profiled the data: counted rows, blanks, and duplicates
-2. Identified problems (to be filled in as I go)
-3. Cleaned using SQL (to be filled in as I go)
-4. Re-ran the checks to confirm the fixes
+## 2. Prepare
+In progress.
 
-## Results
-Before and after counts for each issue (to be added).
+## 3. Process
+In progress.
+
+## 4. Analyze
+In progress.
+
+## 5. Share
+In progress.
+
+## 6. Act
+In progress.
 
 ## Tools
-SQL (SQLite), Excel
+SQL (SQLite), DB Browser for SQLite
 
 ## How I used AI
-(To be added: where AI helped, and how I verified its output.)
+In progress.
